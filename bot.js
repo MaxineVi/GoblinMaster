@@ -4,4 +4,8 @@
 let Discord = require("discord.js");
 let client = new Discord.Client();
 
-client.login();
+client.on("message", function (message) {
+  console.log(message);
+});
+
+client.login(process.env.SECRET);
