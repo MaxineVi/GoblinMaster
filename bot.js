@@ -1,8 +1,7 @@
 // bot.js
 // where your node app starts
 
-let expressionCalculator = require("expression-calculator");
-let calc = new expressionCalculator();
+let mexp = require("math-expression-evaluator");
 
 let Discord = require("discord.js");
 let client = new Discord.Client();
@@ -61,7 +60,17 @@ client.on("message", function (message) {
 
 let calcCommand = function (expression, message) {
   
-  calc.compile(expression).calc();
+  try {
+  
+    let result = mexp.eval(expression);
+  
+    message.channel.send(result);
+    
+  } catch (e) {
+    
+    message.channel.send("Couldn't calculate that. Expression parser says: *" + e.message + "*");
+    
+  }
   
 }
 
