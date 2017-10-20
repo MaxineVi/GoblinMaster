@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "discord.js": "^11.2.1",
-    "text-calculator": "^1.1.0"
+    "expression-calculator": "^0.0.2"
   },
   "engines": {
     "node": "8.x"
