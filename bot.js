@@ -42,27 +42,44 @@ client.on("message", function (message) {
     
     if (firstWord === "d") {
       
-      let diceInput = afterFirstWord;
-      
-      let splitDiceInput = diceInput.split("*");
-      
-      console.log(splitDiceInput)
-      
-      //if NOT not a number (=== is a number)
-      if (numSides && !isNaN(numSides) && numSides > 1) {
-        
-        let dieResult = getRandomInt(1, numSides);
-        message.channel.send(dieResult);
-        
-      } else {
-        message.channel.send("The number of sides must be provided as a number greater than 1.");
-      }
+      diceRollCommand(afterFirstWord, message);
         
     }
     
   }
   
 });
+
+let diceRollCommand = function (diceInput, message) {
+  
+  let splitDiceInput = diceInput.split("*");
+
+  let numSides = splitDiceInput[0];
+  let numRolls = splitDiceInput[1];
+  
+  console.log(numSides)
+  console.log(numRolls)
+  
+  if (numRolls) {
+    if (isNaN(numRolls) || numRolls < 1) {
+      message.channel.send("The number of rolls is not valid.");
+      return false; // exit the function without doing anything else
+    }
+  } else {
+    numRolls = 1;
+  }
+
+  //if NOT not a number (=== is a number)
+  if (numSides && !isNaN(numSides) && numSides > 1) {
+
+    let dieResult = getRandomInt(1, numSides);
+    message.channel.send(dieResult);
+
+  } else {
+    message.channel.send("The number of sides must be provided as a number greater than 1.");
+  }
+  
+}
 
 // Random integer function
 let getRandomInt = function (min, max) {
