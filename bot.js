@@ -42,16 +42,20 @@ client.on("message", function (message) {
     
     if (firstWord === "d") {
       
-      let numSides = afterFirstWord;
+      let diceInput = afterFirstWord;
+      
+      let splitDiceInput = diceInput.split("*");
+      
+      console.log(splitDiceInput)
       
       //if NOT not a number (=== is a number)
-      if (!isNaN(numSides)) {
+      if (numSides && !isNaN(numSides) && numSides > 1) {
         
         let dieResult = getRandomInt(1, numSides);
         message.channel.send(dieResult);
         
       } else {
-        message.channel.send("The number of sides must be provided as a number.");
+        message.channel.send("The number of sides must be provided as a number greater than 1.");
       }
         
     }
