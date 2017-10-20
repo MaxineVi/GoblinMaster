@@ -17,9 +17,12 @@ client.on("message", function (message) {
     // Find firstword
     let firstWord = message.content.split(" ")[0];
     
+    // Get everything after firstword
+    let afterFirstWord = "";
+    
     if (message.content.includes(" ")) {
       
-      message.content = message.content.substring(firstWord.length, message.content.length)
+      afterFirstWord = message.content.substring(firstWord.length + 1, message.content.length);
       
     }
   
@@ -33,20 +36,35 @@ client.on("message", function (message) {
     if (firstWord === "echo") {
 
       //send message with only the part of the message from the end of the "firstword" to the end of the whole message
-      message.channel.send();
+      message.channel.send(afterFirstWord);
 
     }
     
     if (firstWord === "d") {
       
+      let numSides = afterFirstWord;
       
+      //if NOT not a number (=== is a number)
+      if (!isNaN(numSides)) {
+        
+        let dieResult = getRandomInt(1, numSides);
+        message.channel.send(dieResult);
+        
+      } else {
+        message.channel.send("The number of sides must be provided as a number.");
+      }
         
     }
-
-    console.log(firstWord);
     
   }
   
 });
+
+// Random integer function
+let getRandomInt = function (min, max) {
+  min = Math.ceil(min);
+  max = Math.floor(max);
+  return Math.floor(Math.random() * (max - min)) + min; //The maximum is exclusive and the minimum is inclusive
+}
 
 client.login(process.env.SECRET);
