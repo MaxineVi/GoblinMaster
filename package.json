@@ -10,7 +10,8 @@
     "start": "node bot.js"
   },
   "dependencies": {
-    "discord.js": "^11.2.1"
+    "discord.js": "^11.2.1",
+    "text-calculator": "^1.1.0"
   },
   "engines": {
     "node": "8.x"

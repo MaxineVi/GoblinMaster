@@ -1,6 +1,8 @@
 // bot.js
 // where your node app starts
 
+let textCalculator = require("text-calculator");
+
 let Discord = require("discord.js");
 let client = new Discord.Client();
 
@@ -46,9 +48,25 @@ client.on("message", function (message) {
         
     }
     
+    if (firstWord === "c") {
+      
+      calcCommand(afterFirstWord, message);
+      
+    }
+    
   }
   
 });
+
+let calcCommand = function (expression, message) {
+  
+  textCalculator.calculate(expression, function (result) {
+    
+    message.channel.send(result);
+    
+  });
+  
+}
 
 let diceRollCommand = function (diceInput, message) {
   
