@@ -61,6 +61,7 @@ let diceRollCommand = function (diceInput, message) {
   console.log(numRolls)
   
   if (numRolls) {
+    // if numRolls isn't a number, OR if it's a number less than 1
     if (isNaN(numRolls) || numRolls < 1) {
       message.channel.send("The number of rolls is not valid.");
       return false; // exit the function without doing anything else
@@ -69,11 +70,25 @@ let diceRollCommand = function (diceInput, message) {
     numRolls = 1;
   }
 
-  //if NOT not a number (=== is a number)
+  //if NOT not a number (=== is a number) AND if it exists AND if it's greater than 1
   if (numSides && !isNaN(numSides) && numSides > 1) {
 
-    let dieResult = getRandomInt(1, numSides);
-    message.channel.send(dieResult);
+    let dieTotal = 0;
+    
+    let dieResults = [];
+    
+    // for "i" from zero to the number of rolls we want, run this loop i times
+    for (let i = 0; i < numRolls; i++) {
+      
+      let thisRoll = getRandomInt(1, numSides);
+      
+      dieResults.push(thisRoll);
+      
+      dieTotal = dieTotal + thisRoll;
+      
+    }
+    
+    message.channel.send("Roll results: " + dieResults.toString() + "\nTotal: " + dieTotal);
 
   } else {
     message.channel.send("The number of sides must be provided as a number greater than 1.");
