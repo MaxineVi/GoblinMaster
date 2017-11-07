@@ -6,6 +6,8 @@ let mexp = require("math-expression-evaluator");
 let Discord = require("discord.js");
 let client = new Discord.Client();
 
+let fs = require("fs");
+
 let commandPrefix = "!";
 
 client.on("message", function (message) {
@@ -54,9 +56,65 @@ client.on("message", function (message) {
       
     }
     
+    if (firstWord === "rules") {
+      
+      printTextCommand(afterFirstWord, message);
+      
+    }
+    
   }
   
 });
+
+let printTextCommand = function (argument, message) {
+  
+  // Remove all non-alphanumeric characters
+  // argument = argument.replace(/\W/g, '');
+  
+  
+  // readFile takes the following arguments: path to file, callback function  
+  fs.readFile("./texts/rules.txt", "utf8", function (error, data) {
+    if (error) {
+      message.channel.send("text file could not be accessed");
+    } else {
+      
+      let fileSection;
+      
+      let controlSequence = "---";
+      
+      // Split string on ---argument and get everything after it
+      fileSection = data.split(controlSequence + argument)[1];
+      
+      if (!fileSection) {
+        message.channel.send("Couldn't find that rule.");
+        return false;
+      }
+            
+      // Now we need to remove everything after the following --- (or else it's end of file)
+      fileSection = fileSection.split(controlSequence)[0];
+            
+      
+      let embed = new Discord.RichEmbed({
+        "title": argument,
+        "description": fileSection
+      });
+      
+      message.channel.sendEmbed(embed);
+    }
+  });
+  
+//   // readFile takes the following arguments: path to file, callback function  
+//   fs.readFile("./texts/" + argument + ".txt", "utf8", function (error, data) {
+//     if (error) {
+//       message.channel.send("couldn't find that text");
+//     } else {
+//       console.log(data)
+      
+//       message.channel.send(data);
+//     }
+//   });
+  
+};
 
 let calcCommand = function (expression, message) {
   
