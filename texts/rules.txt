@@ -79,5 +79,14 @@ When you **return to a civilized place in which you’ve caused trouble before**
 You take +1 ongoing to last breath rolls. When you **take your last breath**, on a 7–9 you make an offer to Death in return for your life. If Death accepts he will return you to life. If not, you die.
 ---what are you waiting for?
 When you cry out a challenge to your enemies, roll+Con. On a 10+ they treat you as the most obvious threat to be dealt with and ignore your companions, take +2 damage ongoing against them. On a 7–9 only a few (the weakest or most foolhardy among them) fall prey to your taunting.
+---herculean appetites
+Others may content themselves with just a taste of wine, or dominion over a servant or two, but you want more. Choose two appetites. While pursuing one of your appetites if you would roll for a move, instead of rolling 2d6 you roll 1d6+1d8. If the d6 is the higher die of the pair, the GM will also introduce a complication or danger that comes about due to your heedless pursuits.
+• Pure destruction
+• Power over others
+Mortal pleasures
+• Conquest
+• Riches and property
+• Fame and glory
+
 ---divine guidance
 When you **petition your deity according to the precept of your religion**, you are granted some useful knowledge or boon related to your deity’s domain. The GM will tell you what.
