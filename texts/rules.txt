@@ -75,23 +75,9 @@ When you **return to a civilized place in which you’ve caused trouble before**
 • The local constabulary has a warrant out for your arrest
 • Someone has put a price on your head
 • Someone important to you has been put in a bad spot as a result of your actions
-
----diety
-You serve and worship some deity or power which grants you spells. Give your god a name and choose your deity’s domain:
-• Healing and Restoration
-• Bloody Conquest
-• Civilization
-• Knowledge and Hidden Things
-• The Downtrodden and Forgotten
-• What Lies Beneath
-Choose one precept of your religion:
-• It preaches the sanctity of suffering,
-add **Petition: Suffering**
-• It’s clutish and insular,
-add **Petition: Gaining Secrets**
-• It Observes important sacrificial rites,
-add **Petition: Offering**
-• It believes in trial by combat,
-add **Petition: Personal Victory**
+---the upper hand
+You take +1 ongoing to last breath rolls. When you **take your last breath**, on a 7–9 you make an offer to Death in return for your life. If Death accepts he will return you to life. If not, you die.
+---what are you waiting for?
+When you cry out a challenge to your enemies, roll+Con. On a 10+ they treat you as the most obvious threat to be dealt with and ignore your companions, take +2 damage ongoing against them. On a 7–9 only a few (the weakest or most foolhardy among them) fall prey to your taunting.
 ---divine guidance
 When you **petition your deity according to the precept of your religion**, you are granted some useful knowledge or boon related to your deity’s domain. The GM will tell you what.
