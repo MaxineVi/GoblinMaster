@@ -148,3 +148,10 @@ When you **work with your animal companion** on something it’s trained in...
 • and you Discern Realities, add its **cunning** to your **roll**
 • and you Parley, add its **cunning** to your **roll**
 • and someone Interferes with you, add its **instinct** to their **roll**
+---trap expert
+When you **spend a moment to survey a dangerous area**, roll+DEX. On a 10+, hold 3. On a 7–9, hold 1. Spend your hold as you walk through the area to ask these questions:
+• Is there a trap here and if so, what activates it?
+• What does the trap do when activated?
+• What else is hidden here?
+---tricks of the trade
+When you pick locks or pockets or disable traps, roll+DEX. • On a 10+, you do it, no problem. On a 7–9, you still do it, but the GM will offer you two options between suspicion, danger, or cost.
