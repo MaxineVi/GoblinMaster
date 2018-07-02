@@ -69,8 +69,7 @@ When you **reach the end of a session**, choose one your bonds that you feel is 
 • Did we loot a memorable treasure?
 For each “yes” answer everyone marks XP.
 ---level up
-When you have **downtime (hours or days) and XP equal to (or greater than) your current level+7**, subtract your current level +7 from your XP, increase your level by 1, and choose a new advanced move from your class. If you are the wizard, you also get to add a new spell to your spellbook. Choose one of your stats and increase it by 1 (this may change your modifier).
-Note that changing your Constitution increases your maximum and current HP. Ability scores can’t go higher than 18.
+When you have **downtime (hours or days) and XP equal to (or greater than) your current level+7**, subtract your current level +7 from your XP, increase your level by 1, and choose a new advanced move from your class. If you are the wizard, you also get to add a new spell to your spellbook. Choose one of your stats and increase it by 1 (this may change your modifier). Note that changing your Constitution increases your maximum and current HP. Ability scores can’t go higher than 18.
 ---outstanding warrants
 When you **return to a civilized place in which you’ve caused trouble before**, roll+Cha. On a hit, word has spread of your deeds and everyone recognizes you. On a 7–9, that, and, the GM chooses a complication:
 • The local constabulary has a warrant out for your arrest
