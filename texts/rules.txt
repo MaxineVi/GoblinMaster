@@ -89,5 +89,50 @@ Others may content themselves with just a taste of wine, or dominion over a serv
 • Fame and glory
 ---outsider
 You may be elf, dwarf, halfling, or human, but you and your people are not from around here. At the beginning of each session, the GM will **ask you something about your homeland**, why you left, or what you left behind. If you answer them, mark XP.
+---arcane art
+When you **weave a performance into a basic spell**, choose an ally and an effect:
+• Heal 1d8 damage
+• +1d4 forward to damage
+• Their mind is shaken clear of one enchantment
+• The next time someone successfully assists the target with aid, they get +2 instead of +1
+Then roll+CHA. On a 10+, the ally gets the selected effect. On a 7-9, your spell still works, but you draw unwanted attention or your magic reverberates to other targets affecting them as well, GM’s choice.
+
+---Charming & Open
+When you speak frankly with someone,
+you can ask their player a question from
+the list below. They must answer it
+truthfully, then they may ask you a
+question from the list (which you must
+answer truthfully).
+• Whom do you serve?
+• What do you wish I would do?
+• How can I get you to _____?
+• What are you really feeling right now?
+• What do you most desire?
+
+---a port in the storm
+When you return to a civilized settlement you’ve visited before, tell the GM when you were last here. They’ll tell you how it’s
+changed since then.
+
+Bardic Lore
+Choose an area of expertise:
+Spells and Magicks
+The Dead and Undead
+Grand Histories of the Known World
+A Bestiary of Creatures Unusual
+The Planar Spheres
+Legends of Heroes Past
+Gods and Their Servants
+When you first encounter an important
+creature, location, or item (your call)
+covered by your bardic lore you can ask the
+GM any one question about it; the GM will
+answer truthfully. The GM may then ask
+you what tale, song, or legend you heard
+that information in.
+
+
+
+
 ---divine guidance
 When you **petition your deity according to the precept of your religion**, you are granted some useful knowledge or boon related to your deity’s domain. The GM will tell you what.
