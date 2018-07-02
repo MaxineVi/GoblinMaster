@@ -69,7 +69,8 @@ When you **reach the end of a session**, choose one your bonds that you feel is 
 • Did we loot a memorable treasure?
 For each “yes” answer everyone marks XP.
 ---level up
-When you have **downtime (hours or days) and XP equal to (or greater than) your current level+7**, subtract your current level +7 from your XP, increase your level by 1, and choose a new advanced move from your class. If you are the wizard, you also get to add a new spell to your spellbook. Choose one of your stats and increase it by 1 (this may change your modifier). Note that changing your Constitution increases your maximum and current HP. Ability scores can’t go higher than 18.
+When you have **downtime (hours or days) and XP equal to (or greater than) your current level+7**, subtract your current level +7 from your XP, increase your level by 1, and choose a new advanced move from your class. If you are the wizard, you also get to add a new spell to your spellbook. Choose one of your stats and increase it by 1 (this may change your modifier).
+Note that changing your Constitution increases your maximum and current HP. Ability scores can’t go higher than 18.
 ---outstanding warrants
 When you **return to a civilized place in which you’ve caused trouble before**, roll+Cha. On a hit, word has spread of your deeds and everyone recognizes you. On a 7–9, that, and, the GM chooses a complication:
 • The local constabulary has a warrant out for your arrest
@@ -96,43 +97,30 @@ When you **weave a performance into a basic spell**, choose an ally and an effec
 • Their mind is shaken clear of one enchantment
 • The next time someone successfully assists the target with aid, they get +2 instead of +1
 Then roll+CHA. On a 10+, the ally gets the selected effect. On a 7-9, your spell still works, but you draw unwanted attention or your magic reverberates to other targets affecting them as well, GM’s choice.
-
----Charming & Open
-When you speak frankly with someone,
-you can ask their player a question from
-the list below. They must answer it
-truthfully, then they may ask you a
-question from the list (which you must
-answer truthfully).
+---charming & open
+When you **speak frankly with someone**, you can ask their player a question from the list below. They must answer it truthfully, then they may ask you a question from the list (which you must answer truthfully).
 • Whom do you serve?
 • What do you wish I would do?
 • How can I get you to _____?
 • What are you really feeling right now?
 • What do you most desire?
-
----a port in the storm
-When you return to a civilized settlement you’ve visited before, tell the GM when you were last here. They’ll tell you how it’s
-changed since then.
-
-Bardic Lore
+---bardic lore
 Choose an area of expertise:
-Spells and Magicks
-The Dead and Undead
-Grand Histories of the Known World
-A Bestiary of Creatures Unusual
-The Planar Spheres
-Legends of Heroes Past
-Gods and Their Servants
-When you first encounter an important
-creature, location, or item (your call)
-covered by your bardic lore you can ask the
-GM any one question about it; the GM will
-answer truthfully. The GM may then ask
-you what tale, song, or legend you heard
-that information in.
-
-
-
-
+• Spells and Magicks
+• The Dead and Undead
+• Grand Histories of the Known World
+• A Bestiary of Creatures Unusual
+• The Planar Spheres
+• Legends of Heroes Past
+• Gods and Their Servants
+When you **first encounter an important creature, location, or item** (your call) covered by your bardic lore you can ask the GM any one question about it; the GM will answer truthfully. The GM may then ask you what tale, song, or legend you heard that information in.
+---a port in the storm
+When you **return to a civilized settlement you’ve visited before**, tell the GM when you were last here. They’ll tell you how it’s changed since then.
 ---divine guidance
 When you **petition your deity according to the precept of your religion**, you are granted some useful knowledge or boon related to your deity’s domain. The GM will tell you what.
+---cast a spell (wis)
+When you **unleash a spell granted by your deity**, roll+WIS. On a 10+ the the spell is successfully cast and your deity does not revoke the spell, so you may cast it again. On a 7-9 the spell is cast, but choose one:
+• You draw unwelcome attention or put yourself in a spot. The GM will tell you how.
+• Your casting distances you from your deity; take -1 ongoing to cast a spell until the next time you commune.
+• After it is cast, the spell is revoked by your deity. You cannot cast the spell again until you commune and have it granted to you.
+Note that maintaining spells with ongoing effects will sometimes cause a penalty to your roll to cast a spell.
