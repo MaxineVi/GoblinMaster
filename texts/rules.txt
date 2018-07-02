@@ -70,7 +70,7 @@ When you **reach the end of a session**, choose one your bonds that you feel is 
 For each “yes” answer everyone marks XP.
 ---level up
 When you have **downtime (hours or days) and XP equal to (or greater than) your current level+7**, subtract your current level +7 from your XP, increase your level by 1, and choose a new advanced move from your class. If you are the wizard, you also get to add a new spell to your spellbook. Choose one of your stats and increase it by 1 (this may change your modifier).
-Note that changing your Constitution increases your maximum and current HP. Ability scores can’t go higher than 18.
+*Note that changing your Constitution increases your maximum and current HP. Ability scores can’t go higher than 18.*
 ---outstanding warrants
 When you **return to a civilized place in which you’ve caused trouble before**, roll+Cha. On a hit, word has spread of your deeds and everyone recognizes you. On a 7–9, that, and, the GM chooses a complication:
 • The local constabulary has a warrant out for your arrest
@@ -123,4 +123,21 @@ When you **unleash a spell granted by your deity**, roll+WIS. On a 10+ the the s
 • You draw unwelcome attention or put yourself in a spot. The GM will tell you how.
 • Your casting distances you from your deity; take -1 ongoing to cast a spell until the next time you commune.
 • After it is cast, the spell is revoked by your deity. You cannot cast the spell again until you commune and have it granted to you.
-Note that maintaining spells with ongoing effects will sometimes cause a penalty to your roll to cast a spell.
+*Note that maintaining spells with ongoing effects will sometimes cause a penalty to your roll to cast a spell.*
+---commune
+When you spend uninterrupted time (an hour or so) in **quiet contemplation** with your deity, you:
+• Lose any spells already granted to you
+• Are granted new spells of your choice whose total levels don’t exceed your own level +1, and none of which is a higher level than your own level
+• Prepare all of your rotes, which never count against your limit
+---turn undead
+When you **hold your holy symbol aloft and call on your deity for protection**, roll+WIS. On a 7+, so long as you continue to pray and brandish your holy symbol, no undead may come within reach of you. On a 10+, you also momentarily daze intelligent undead and cause mindless undead to flee. Aggression breaks the effects and they are able to act as normal.
+---hunt & track (WIS)
+When you follow a trail of clues left
+behind by passing creatures, roll+WIS.
+• On a 7+, you follow the creature’s trail
+until there’s a significant change in its
+direction or mode of travel. •On a 10+,
+you also choose 1:
+• Gain a useful bit of information about
+your quarry, the GM will tell you what
+• Determine what caused the trail to end
