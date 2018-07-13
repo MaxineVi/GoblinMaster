@@ -181,9 +181,26 @@ When you spend uninterrupted time (an hour or so) in **quiet contemplation** of 
 • Prepare new spells chosen from your spellbook whose total levels don’t exceed your own level +1
 • Prepare your cantrips which never count against your limit
 ---spell defense
-S
-You may end any ongoing spell immediately
-and use the energy of its dissipation to
-deflect an oncoming attack. The spell ends
-and you subtract its level from the damage
-done to you.
+You may end any ongoing spell immediately and use the energy of its dissipation to deflect an oncoming attack. The spell ends and you subtract its level from the damage done to you.
+---ritual
+When you **draw on a place of power** to create a magical effect, tell the GM what you’re trying to achieve. Ritual effects are always possible, but the GM will give you one to four of the following conditions:
+• It’s going to take days/weeks/months
+• First you must ____
+• You’ll need help from ____
+• It will require a lot of money
+• The best you can do is a lesser version, unreliable and limited
+• You and your allies will risk danger from ____
+• You’ll have to disenchant ____ to do it
+---spell light (cleric)
+Rote
+An item you touch glows with divine light, about as bright as a torch. It gives off no heat or sound and requires no fuel, but it is otherwise like a mundane torch. You have complete control of the color of the flame. The spell lasts as long as it is in your presence.
+---spell sanctify
+Rote
+Food or water you hold in your hands while you cast this spell is consecrated by your deity. In addition to now being holy or unholy, the affected substance is purified of any mundane spoilage.
+---spell guidance
+Rote
+The symbol of your deity appears before you and gestures towards the direction or
+course of action your deity would have you
+take then disappears. The message is
+through gesture only; your communication
+through this spell is severely limited.
