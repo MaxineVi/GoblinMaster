@@ -163,4 +163,27 @@ When you **attack a surprised or defenseless enemy with a melee weapon**, you ca
 • Reduce their armor by 1 until they repair it
 ---flexible morals
 When **someone tries to detect your alignment** you can tell them any alignment you like.
----
+---poisoner
+You’ve mastered the care and use of a poison. Choose a poison from the list below; that poison is no longer dangerous for you to use. You also start with three uses of the poison you choose. Whenever you have time to gather materials and a safe place to brew you can make three uses of the poison you choose for free. Note that some poisons are applied, meaning you have to carefully apply it to the target or something they eat or drink. Touch poisons just need to touch the target, they can even be used on the blade of a weapon.
+• **Oil of Tagit**: (applied) The target falls into a light sleep.
+• **Bloodweed**: (touch) The target deals -1d4 damage ongoing until cured.
+• **Goldenroot**: (applied) The target treats the next creature they see as a trusted ally, until proved otherwise.
+• **Serpent’s Tears**: (touch) Anyone dealing damage to the target rolls twice and takes the better result.
+---cast a spell (int)
+When you **release a spell you’ve prepared**, roll+INT. • On a 10+ the the spell is successfully cast and you may cast the spell again later. • On a 7-9 the spell is cast, but choose one:
+• You draw unwelcome attention or put yourself in a spot. The GM will tell you how.
+• The spell disturbs the fabric of reality as it is cast; take -1 ongoing to cast a spell until the next time you Prepare Spells.
+• After it is cast, the spell is forgotten. You cannot cast the spell again until you prepare spells.
+*Note that maintaining spells with ongoing effects will sometimes cause a penalty to your roll to cast a spell.*
+---prepare spells
+When you spend uninterrupted time (an hour or so) in **quiet contemplation** of your spellbook, you:
+• Lose any spells you already prepared
+• Prepare new spells chosen from your spellbook whose total levels don’t exceed your own level +1
+• Prepare your cantrips which never count against your limit
+---spell defense
+S
+You may end any ongoing spell immediately
+and use the energy of its dissipation to
+deflect an oncoming attack. The spell ends
+and you subtract its level from the damage
+done to you.
