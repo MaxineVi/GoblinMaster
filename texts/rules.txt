@@ -22,7 +22,7 @@ When you **stand in defense of a person, item, or location** under attack, roll+
 • Halve the attack’s effect or damage
 • Open up the attacker to an ally giving that ally +1 forward against the attacker
 • Deal damage to the attacker equal to your level
----Discern Realities
+---discern realities
 When you **closely study a situation or person**, roll+Wis. On a 10+ ask the GM three questions from the list below. On a 7–9 ask only one. Take +1 forward when acting on the answers.
 • What happened here recently?
 • What is about to happen?
