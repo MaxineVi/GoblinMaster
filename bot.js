@@ -56,7 +56,7 @@ client.on("message", function (message) {
       
     }
     
-    if (firstWord === "rules") {
+    if (firstWord === "dwrules") {
       
       printTextCommand(afterFirstWord, message);
       
@@ -73,7 +73,7 @@ let printTextCommand = function (argument, message) {
   
   
   // readFile takes the following arguments: path to file, callback function  
-  fs.readFile("./texts/rules.txt", "utf8", function (error, data) {
+  fs.readFile("./texts/dwrules.txt", "utf8", function (error, data) {
     if (error) {
       message.channel.send("text file could not be accessed");
     } else {
