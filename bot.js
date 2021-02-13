@@ -58,7 +58,7 @@ client.on("message", function (message) {
     
     if (firstWord === "dwrules") {
       
-      printTextCommand(afterFirstWord, message);
+      printTextCommandDW(afterFirstWord, message);
       
     }
     
@@ -66,7 +66,7 @@ client.on("message", function (message) {
   
 });
 
-let printTextCommand = function (argument, message) {
+let printTextCommandDW = function (argument, message) {
   
   // Remove all non-alphanumeric characters
   // argument = argument.replace(/\W/g, '');
