@@ -71,8 +71,8 @@ When you **return to a civilized place in which you’ve caused trouble before**
 • Someone important to you has been put in a bad spot as a result of your actions
 ---recruit
 When you **go looking to hire help**, tell the GM what you’re offering and whom you’re looking for, phrased in one of the following ways:
-• A group of ______ (porters, guards, minstrels, angry farmers, etc.)
-• A skilled ______ (guide, sage, burglar, bodyguard, etc.)
+• A group of \_\_ (porters, guards, minstrels, angry farmers, etc.)
+• A skilled \_\_ (guide, sage, burglar, bodyguard, etc.)
 A group is a follower like any other, but with the *Group* tag.
 If the GM says you can’t find that kind of help in a place like this, start over or move on. Otherwise, roll+nothing and take +1 if you have a good reputation in these parts. On a 10+, they’re yours for the hiring. On a 7-9, the GM chooses 1 from the list below. On a miss, No one shows, but mark XP.
 • They demand greater compensation, in silver or some other form
@@ -136,10 +136,10 @@ When you **take a few moments to dig through your collection for something usefu
 • It is either consumable or faulty, and will only work once.
 • It was not intended to be used for this.
 • It will take a lot of time and effort to use properly.
-• It won't work unless you _____.
+• It won't work unless you \_\_.
 • The curio's effects are incredibly specific.
 • You get something close to what you want, but not quite.
-• You'll need help from _____ to use it safely.
+• You'll need help from \_\_ to use it safely.
 ---discerner of relics
 When you **handle an interesting object**, roll+WOR. On a 10+, ask the GM three questions from the list below. On a 7-9, ask two. On a miss, ask one anyway, in addition to whatever the GM tells you:
 • Where did it come from?
@@ -152,3 +152,20 @@ When you **handle an interesting object**, roll+WOR. On a 10+, ask the GM three 
 When you **press your symbol upon someone and call The Pure King to grant you his healing touch**, roll+PRS. On a 10+, you heal 1d8 damage or remove one disease. On a 7-9, they are still healed, but the disease or half the damage (rounded up) is also transferred to you.
 ---oneiromantic visions
 When you **rest and dream the strands of possible futures**, roll+WOR. On a 10+, hold 2. On a 7-9, hold 1. Until the next time you rest, you can spend 1 hold to ask the GM what is about to happen. Take +1 ongoing when acting on the information.
+---get over here
+When you **throw your hook with the intention of grappling an enemy into combat with you**, roll+CAP. On a 7+, you reel them in and they’re engaged with you in combat and will need to free themselves to escape combat with you. On a 10+, you take +1 forward to Clash Nails with them.
+---the gentle approach
+When you **use pure strength to destroy an inanimate obstacle**, roll+HRD. On a 10+, choose 3. On a 7-9 choose 2.
+• It doesn’t take a very long time
+• Nothing of value is damaged
+• It doesn’t make an inordinate amount of noise
+• You can fix the thing again without a lot of effort
+---leaf on the wind
+When you **dash away from an opponent's attack**, roll+GRA. On a 10+, choose two. On a 7-9, choose one:
+• You avoid their attack
+• You slip away to somewhere they can't follow you
+• You don’t lose your footing and fall
+---hunt & track
+When you **follow a trail of clues left behind by passing creatures**, roll+WOR. On a 7+, you follow the creature’s trail until there’s a significant change in its direction or mode of travel. On a 10+, you also choose 1:
+• Gain a useful bit of information about your quarry, the GM will tell you what
+• Determine what caused the trail to end
