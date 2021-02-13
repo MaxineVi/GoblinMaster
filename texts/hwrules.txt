@@ -1,2 +1,31 @@
 ---clash nails
-When you clash with an enemy in melee combat, roll+CAP. On a 10+, you deal your damage to the enemy and avoid being damaged. You may choose to deal +1d6 damage and expose yourself to the enemy attack. On a 7-9, you deal your damage to the enemy and the enemy makes an attack against you.
+When you **clash with an enemy in melee combat**, roll+CAP. On a 10+, you deal your damage to the enemy and avoid being damaged. You may choose to deal +1d6 damage and expose yourself to the enemy attack. On a 7-9, you deal your damage to the enemy and the enemy makes an attack against you.
+---take aim
+When you **take aim and fire at an enemy at range**, roll+GRA. On a 10+, your shot is clear, deal your damage. On a 7-9, choose one, and then deal your damage.
+• You have to move to get the shot placing you in a danger of the GM’s choice.
+• You have to take what you can get: -1d6 damage.
+• You have to take several shots, reducing your ammo by one.
+---stand strong
+When you **stand in defense of a person, item, or location**, roll+HRD. On a 10+, hold 3. On a 7-9, hold 1. So long as you stand in defense, when something makes a move for or the thing you defend is attacked you may spend hold, 1 for 1, to choose an option:
+• Redirect an attack from the thing you defend to yourself
+• Halve the attack’s effect or damage
+• Open up the attacker to an ally giving that ally +1 forward against the attacker
+• Deal your damage to the attacker
+---defy danger
+When you **act despite an imminent threat** or suffer the consequences, say how you deal with it and roll...
+• by taking a decisive action against the threat and rising up to the danger, +CAP
+• by darting out of the way or moving quickly, +GRA
+• through mental fortitude, +WOR
+• with quick thinking or manipulation, +PRS
+• by toughing it out, +HRD
+On a 10+, you do what you set out to, the threat doesn’t come to bear. On a 7-9, you stumble, hesitate, or flinch: the GM will offer you a hard bargain, or an ugly choice.
+---good with your hands
+When you **pick a lock, disable a trap or tinker with something risky**, roll+CAP. On a 10+, you do it, no problem. On a 7-9, you still do it, but the GM will offer you two options between suspicion, danger, or cost.
+---elegance without witness
+When you **use delicate movements to pick a pocket, eavesdrop or tail someone**, roll+GRA. On a 10+, you’re practically invisible. On a 7-9, you can stay or go, but if you go it costs you: leave something behind or take something with you, the GM will tell you what.
+---
+---
+---
+---
+---
+---
