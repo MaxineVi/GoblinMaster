@@ -47,30 +47,30 @@ When you **help or hinder someone you have a Bond with**, roll+Bond with them. O
 ---last breath
 When you’re dying and you catch a glimpse of what lies beyond this miserable life, there is no one to greet you on the other side, it is just a vast ocean of darkness, it feels empty and lonely. You are afraid. Now roll+nothing. On a 10+, you’ve cheated death, you’re in a bad spot but you’re still alive. On a 7-9, there is no manifestation of death to greet you on the other side. But you can feel fate asking for something, a sacrifice perhaps, make a considerable sacrifice and stabilize or pass into whatever fate awaits you here. On a miss, your fate is sealed. You can feel the tendrils of darkness reaching out to you from beyond life, you’ll cross the threshold soon. The GM will tell you when.
 ---encumbrance
-When you make a move while carrying weight up to or equal to Load, you’re fine. When you make a move while carrying weight equal to load+1 or load+2, you take -1. When you make a move while carrying weight greater than load+2, you have a choice: drop at least 1 weight and roll at -1, or automatically fail.
+When you **make a move while carrying weight up to or equal to Load**, you’re fine. When you make a move while carrying weight equal to load+1 or load+2, you take -1. When you make a move while carrying weight greater than load+2, you have a choice: drop at least 1 weight and roll at -1, or automatically fail.
 ---bolster
-When you spend your leisure time in study, meditation, or hard practice, you gain preparation. If you prepare for a week or two, 1 preparation. If you prepare for a month or longer, 3 preparation. When your preparation pays off spend 1 preparation for +1 to any roll. You can only spend one preparation per roll.
+When you **spend your leisure time in study, meditation, or hard practice**, you gain preparation. If you prepare for a week or two, 1 preparation. If you prepare for a month or longer, 3 preparation. When your preparation pays off spend 1 preparation for +1 to any roll. You can only spend one preparation per roll.
 ---supply
-When you go to buy something with money on hand, if it’s something readily available in the settlement you’re in, you can buy it at market price. If it’s something special, beyond what’s usually available here, or non-mundane, roll+PRS. On a 10+, you find what you’re looking for at a fair price. On a 7-9, you’ll have to pay more or settle for something similar.
+When you go to **buy something with money on hand**, if it’s something readily available in the settlement you’re in, you can buy it at market price. If it’s something special, beyond what’s usually available here, or non-mundane, roll+PRS. On a 10+, you find what you’re looking for at a fair price. On a 7-9, you’ll have to pay more or settle for something similar.
 ---recover
-When you do nothing but rest in comfort and safety after a day of rest you recover all your HP. After three days of rest you remove one debility of your choice. If you’re under the care of a healer (magical or otherwise) you heal a debility for every two days of rest instead.
+When you **do nothing but rest in comfort and safety** after a day of rest you recover all your HP. After three days of rest you remove one debility of your choice. If you’re under the care of a healer (magical or otherwise) you heal a debility for every two days of rest instead.
 ---end Of session
-When you reach the end of a session of The Hollow World, choose one of your bonds that you feel is resolved (completely explored, no longer relevant, or otherwise). Ask the player of the character you have the bond with if they agree. If they do, mark XP and write a new bond with whomever you wish.
+When you **reach the end of a session** of The Hollow World, choose one of your bonds that you feel is resolved (completely explored, no longer relevant, or otherwise). Ask the player of the character you have the bond with if they agree. If they do, mark XP and write a new bond with whomever you wish.
 Once bonds have been updated look at your drive. If you fulfilled that drive at least once this session, mark XP. Then answer these three questions as a group:
 Did we learn something new and important about the world?
 Did we overcome a notable monster or enemy?
 Did we loot a memorable treasure?
 For each “yes” answer everyone marks XP.
 ---level up
-When you have downtime (hours or days) and XP equal to (or greater than) your current level+7, subtract your current level+7 from your XP, increase your level by 1, and choose a new advanced move from your class. Choose one of your stats and increase it by 1 (this may change your modifier).
-Note that changing your Hardy increases your maximum and current HP. Ability scores can’t go higher than 18.
+When you **have downtime (hours or days) and XP equal to (or greater than) your current level+7**, subtract your current level+7 from your XP, increase your level by 1, and choose a new advanced move from your class. Choose one of your stats and increase it by 1 (this may change your modifier).
+*Note that changing your Hardy increases your maximum and current HP. Ability scores can’t go higher than 18.*
 ---outstanding warrants
-When you return to a civilized place in which you’ve caused trouble before, roll+PRS. On a hit, word has spread of your deeds and everyone recognizes you. On a 7-9, that, and, the GM chooses a complication:
+When you **return to a civilized place in which you’ve caused trouble before**, roll+PRS. On a hit, word has spread of your deeds and everyone recognizes you. On a 7-9, that, and, the GM chooses a complication:
 The local governing body has a warrant out for your arrest
 Someone has put a price on your head
 Someone important to you has been put in a bad spot as a result of your actions
 ---recruit
-When you go looking to hire help, tell the GM what you’re offering and whom you’re looking for, phrased in one of the following ways:
+When you **go looking to hire help**, tell the GM what you’re offering and whom you’re looking for, phrased in one of the following ways:
 A group of ______ (porters, guards, minstrels, angry farmers, etc.)
 A skilled ______ (guide, sage, burglar, bodyguard, etc.)
 A group is a follower like any other, but with the Group tag.
@@ -81,28 +81,53 @@ They have a need that must be met first (permission from someone else, a favor, 
 You can tell at a glance they are less than ideal (ask the GM how)
 The GM will choose or roll their specifics (Quality, Loyalty, Instinct, Cost, tags, etc.) as needed, to be discovered through play. Which might involve you grilling them, right now.
 ---order follower
-When you order or expect a follower to do something dangerous, degrading, or contrary to their Instinct, roll+Loyalty. On a 10+, they do it, now. On a 7-9, they do it, but the GM picks one from the list below.
+When you **order or expect a follower to do something dangerous, degrading, or contrary to their Instinct**, roll+Loyalty. On a 10+, they do it, now. On a 7-9, they do it, but the GM picks one from the list below.
 Decrease the follower’s Loyalty by 1
 They complain loudly, now or later, and demand something in return
 Caution, unwillingness, or fear makes them take a long time to get it done
 ---do their thing
-When a follower does something chancy within the scope of their tags or moves, roll+Quality. On a 10+, they do it, as well as one could reasonably hope. On a 7-9, they do it, but there’s an unforeseen cost, consequence, or limitation (ask the GM what).
-When a follower does something chancy that falls beyond the scope of their tags or moves, or does anything on their own, the GM will tell you what happens.
+When a follower **does something chancy within the scope of their tags or moves**, roll+Quality. On a 10+, they do it, as well as one could reasonably hope. On a 7-9, they do it, but there’s an unforeseen cost, consequence, or limitation (ask the GM what).
+When a follower **does something chancy that falls beyond the scope of their tags or moves**, or does anything on their own, the GM will tell you what happens.
 ---call for assistance
-When a follower helps you make a move that calls for a roll, take +1 to that roll but know that they will be exposed to any potential consequences.
-When a follower helps you Clash Nails or Take Aim, roll their damage die alongside your own, use the highest result, and add any damage bonuses you get on top of that.
-When a follower helps you Stand Strong, you can spend 1 hold to redirect an attack to them instead of yourself.
+When a follower **helps you make a move that calls for a roll**, take +1 to that roll but know that they will be exposed to any potential consequences.
+When a follower **helps you Clash Nails or Take Aim**, roll their damage die alongside your own, use the highest result, and add any damage bonuses you get on top of that.
+When a follower **helps you Stand Strong**, you can spend 1 hold to redirect an attack to them instead of yourself.
 ---pay up
-When you pay a follower’s cost, increase their Loyalty by 1 (to a maximum of +3). You can’t trigger this move again until both you and your follower have Made Camp.
----
----
----
----
----
----
----
----
----
----
----
----
+When you **pay a follower’s cost**, increase their Loyalty by 1 (to a maximum of +3). You can’t trigger this move again until both you and your follower have Made Camp.
+---watch them go
+When a follower **has -3 Loyalty**, they will betray or abandon you at the next opportunity.
+---monsters & followers
+When you **turn a monster into a follower**, give it a Quality score
+from -1 to +2 (or even +3 if it’s truly magnificent). Set its Loyalty as with any new follower. Choose (or make up) a Cost. Add any tags you deem appropriate, but otherwise use as-is.
+When you **turn a follower into a monster**, use their stats as-is.
+---journey
+When you **travel by a safe route**, through safe or dangerous lands, indicate your destination on the map. The GM will tell you how long the trip takes, and what (if anything) happens along the way. When you reach your destination, choose someone to Manage Provisions to determine how many rations were consumed over the course of the trip.
+---undertake a perilous journey
+When you **travel through dangerous lands**, and not on a safe route, indicate the course you want to take on the map and ask the GM how far you should be able to get before needing to Make Camp. If you’re exploring with no set destination, indicate which way you go. Then, choose one party member to Scout Ahead, and one to Navigate, resolving those moves in that order.
+---forage
+When you **spend a day seeking food in the wilds**, and your surroundings are not barren, roll+WOR. On a 7+, you gain 1d4 rations, +1d4 rations if you have the knowledge and gear needed to trap or hunt. On a 7-9, you first face a Discovery or Danger of the GM’s choice.
+---make camp
+When you **settle in to rest**, choose one member of the party to Manage Provisions. Then, if you eat and drink, and have enough XP, you may level up.
+If you’re bedding down in dangerous lands, decide on a watch order. Then choose a player to roll+nothing. On a 10+, the night passes without incident. On a 7-9, the GM chooses 1 from the list below. On a miss, Everyone marks XP, and a Danger manifests. You’d better Stay Sharp!
+• The person on watch notices a nearby Discovery
+• One party member of the GM’s choice suffers a restless night
+• One or more followers causes trouble
+• A Danger approaches, it’s not immediately hostile, but whoever’s on watch had better Stay Sharp anyway
+When you wake from at least a few hours of uninterrupted sleep, and you ate and drank the night before, heal damage equal to half of your max HP.
+---stay sharp
+When you **are on watch and something approaches**, roll+WOR. On a 10+, you’re able to wake the camp and prepare a response, the camp takes +1 forward. On a 7-9, you react just a moment too late; the camp is awake but hasn’t had time to prepare. You have weapons and armor but little else. On a miss, mark XP and whatever lurks outside the campfire’s light has the drop on you.
+---scout ahead
+When you **take point and look for anything out of the ordinary**, roll+WOR. On a 10+, Choose 2 from the list below. On a 7-9, Choose 1 from the list below.
+• You get the drop on whatever lies ahead
+• You discern a beneficial aspect of the terrain, a shortcut, shelter, or tactical advantage (describe it)
+• You make a Discovery (ask the GM)
+• You notice sign of a nearby Danger, ask the GM what it is, and what it might signify
+---navigate
+When you **plot the best course through dangerous or unfamiliar lands**, roll+WOR. On a 10+, You avoid dangers and distractions and make good time, reaching a point of the GM’s choosing before you need to Make Camp. On a 7-9, the GM chooses 1 from the list below.
+• You happen upon a Discovery missed by the scout
+• The going is slow, or you wander off course. The GM says which, and where you end up on the map
+• You encounter a Danger; whether or not you’re surprised depends on whether the scout has the drop on it
+---manage provisions
+When you **prepare and distribute food for the party**, roll+PRS. On a 10+, Choose 1 from the list below. On a 7-9, The party consumes the expected amount of rations (1 per person if Making Camp, 1 per person per day if making a Journey).
+• Careful management reduces the amount of rations consumed (ask the GM by how much)
+• The party consumes the expected amount and the food you prepare is excellent, describe it, and everyone who licks their lips takes +1 forward
