@@ -57,34 +57,34 @@ When you **do nothing but rest in comfort and safety** after a day of rest you r
 ---end Of session
 When you **reach the end of a session** of The Hollow World, choose one of your bonds that you feel is resolved (completely explored, no longer relevant, or otherwise). Ask the player of the character you have the bond with if they agree. If they do, mark XP and write a new bond with whomever you wish.
 Once bonds have been updated look at your drive. If you fulfilled that drive at least once this session, mark XP. Then answer these three questions as a group:
-Did we learn something new and important about the world?
-Did we overcome a notable monster or enemy?
-Did we loot a memorable treasure?
+• Did we learn something new and important about the world?
+• Did we overcome a notable monster or enemy?
+• Did we loot a memorable treasure?
 For each “yes” answer everyone marks XP.
 ---level up
 When you **have downtime (hours or days) and XP equal to (or greater than) your current level+7**, subtract your current level+7 from your XP, increase your level by 1, and choose a new advanced move from your class. Choose one of your stats and increase it by 1 (this may change your modifier).
 *Note that changing your Hardy increases your maximum and current HP. Ability scores can’t go higher than 18.*
 ---outstanding warrants
 When you **return to a civilized place in which you’ve caused trouble before**, roll+PRS. On a hit, word has spread of your deeds and everyone recognizes you. On a 7-9, that, and, the GM chooses a complication:
-The local governing body has a warrant out for your arrest
-Someone has put a price on your head
-Someone important to you has been put in a bad spot as a result of your actions
+• The local governing body has a warrant out for your arrest
+• Someone has put a price on your head
+• Someone important to you has been put in a bad spot as a result of your actions
 ---recruit
 When you **go looking to hire help**, tell the GM what you’re offering and whom you’re looking for, phrased in one of the following ways:
-A group of ______ (porters, guards, minstrels, angry farmers, etc.)
-A skilled ______ (guide, sage, burglar, bodyguard, etc.)
-A group is a follower like any other, but with the Group tag.
+• A group of ______ (porters, guards, minstrels, angry farmers, etc.)
+• A skilled ______ (guide, sage, burglar, bodyguard, etc.)
+A group is a follower like any other, but with the *Group* tag.
 If the GM says you can’t find that kind of help in a place like this, start over or move on. Otherwise, roll+nothing and take +1 if you have a good reputation in these parts. On a 10+, they’re yours for the hiring. On a 7-9, the GM chooses 1 from the list below. On a miss, No one shows, but mark XP.
-They demand greater compensation, in silver or some other form
-No one here fits the bill, but you hear of someone elsewhere who does
-They have a need that must be met first (permission from someone else, a favor, etc.)
-You can tell at a glance they are less than ideal (ask the GM how)
+• They demand greater compensation, in silver or some other form
+• No one here fits the bill, but you hear of someone elsewhere who does
+• They have a need that must be met first (permission from someone else, a favor, etc.)
+• You can tell at a glance they are less than ideal (ask the GM how)
 The GM will choose or roll their specifics (Quality, Loyalty, Instinct, Cost, tags, etc.) as needed, to be discovered through play. Which might involve you grilling them, right now.
 ---order follower
 When you **order or expect a follower to do something dangerous, degrading, or contrary to their Instinct**, roll+Loyalty. On a 10+, they do it, now. On a 7-9, they do it, but the GM picks one from the list below.
-Decrease the follower’s Loyalty by 1
-They complain loudly, now or later, and demand something in return
-Caution, unwillingness, or fear makes them take a long time to get it done
+• Decrease the follower’s Loyalty by 1
+• They complain loudly, now or later, and demand something in return
+• Caution, unwillingness, or fear makes them take a long time to get it done
 ---do their thing
 When a follower **does something chancy within the scope of their tags or moves**, roll+Quality. On a 10+, they do it, as well as one could reasonably hope. On a 7-9, they do it, but there’s an unforeseen cost, consequence, or limitation (ask the GM what).
 When a follower **does something chancy that falls beyond the scope of their tags or moves**, or does anything on their own, the GM will tell you what happens.
@@ -131,3 +131,24 @@ When you **plot the best course through dangerous or unfamiliar lands**, roll+WO
 When you **prepare and distribute food for the party**, roll+PRS. On a 10+, Choose 1 from the list below. On a 7-9, The party consumes the expected amount of rations (1 per person if Making Camp, 1 per person per day if making a Journey).
 • Careful management reduces the amount of rations consumed (ask the GM by how much)
 • The party consumes the expected amount and the food you prepare is excellent, describe it, and everyone who licks their lips takes +1 forward
+---hoarder of oddities
+When you **take a few moments to dig through your collection for something useful**, describe what you're looking for and what you want it to do. You can have potentially anything on hand, but the GM will tell you one to four of the following:
+• It is either consumable or faulty, and will only work once.
+• It was not intended to be used for this.
+• It will take a lot of time and effort to use properly.
+• It won't work unless you _____.
+• The curio's effects are incredibly specific.
+• You get something close to what you want, but not quite.
+• You'll need help from _____ to use it safely.
+---discerner of relics
+When you **handle an interesting object**, roll+WOR. On a 10+, ask the GM three questions from the list below. On a 7-9, ask two. On a miss, ask one anyway, in addition to whatever the GM tells you:
+• Where did it come from?
+• What has been done to or with it recently?
+• What’s wrong with it and how could it be fixed?
+• Who handled it last?
+• What made it?
+• Is it hiding something?
+---pure touch
+When you **press your symbol upon someone and call The Pure King to grant you his healing touch**, roll+PRS. On a 10+, you heal 1d8 damage or remove one disease. On a 7-9, they are still healed, but the disease or half the damage (rounded up) is also transferred to you.
+---oneiromantic visions
+When you **rest and dream the strands of possible futures**, roll+WOR. On a 10+, hold 2. On a 7-9, hold 1. Until the next time you rest, you can spend 1 hold to ask the GM what is about to happen. Take +1 ongoing when acting on the information.
