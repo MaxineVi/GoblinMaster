@@ -62,6 +62,12 @@ client.on("message", function (message) {
       
     }
     
+    if (firstWord === "hwrules") {
+      
+      printTextCommandHW(afterFirstWord, message);
+      
+    }
+    
   }
   
 });
@@ -114,6 +120,37 @@ let printTextCommandDW = function (argument, message) {
 //     }
 //   });
   
+};
+
+let printTextCommandHW = function (argument, message) {
+    
+  fs.readFile("./texts/hwrules.txt", "utf8", function (error, data) {
+    if (error) {
+      message.channel.send("text file could not be accessed");
+    } else {
+      
+      let fileSection;
+      
+      let controlSequence = "---";
+      
+      fileSection = data.split(controlSequence + argument)[1];
+      
+      if (!fileSection) {
+        message.channel.send("Couldn't find that rule.");
+        return false;
+      }
+            
+      fileSection = fileSection.split(controlSequence)[0];
+            
+      
+      let embed = new Discord.RichEmbed({
+        "title": argument,
+        "description": fileSection
+      });
+      
+      message.channel.sendEmbed(embed);
+    }
+  });
 };
 
 let calcCommand = function (expression, message) {
