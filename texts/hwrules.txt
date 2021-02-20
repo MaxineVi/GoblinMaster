@@ -54,7 +54,7 @@ When you **spend your leisure time in study, meditation, or hard practice**, you
 When you go to **buy something with money on hand**, if it’s something readily available in the settlement you’re in, you can buy it at market price. If it’s something special, beyond what’s usually available here, or non-mundane, roll+PRS. On a 10+, you find what you’re looking for at a fair price. On a 7-9, you’ll have to pay more or settle for something similar.
 ---recover
 When you **do nothing but rest in comfort and safety** after a day of rest you recover all your HP. After three days of rest you remove one debility of your choice. If you’re under the care of a healer (magical or otherwise) you heal a debility for every two days of rest instead.
----end Of session
+---end of session
 When you **reach the end of a session** of The Hollow World, choose one of your bonds that you feel is resolved (completely explored, no longer relevant, or otherwise). Ask the player of the character you have the bond with if they agree. If they do, mark XP and write a new bond with whomever you wish.
 Once bonds have been updated look at your drive. If you fulfilled that drive at least once this session, mark XP. Then answer these three questions as a group:
 • Did we learn something new and important about the world?
