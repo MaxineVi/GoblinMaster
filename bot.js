@@ -220,6 +220,12 @@ let diceRollCommand = function (diceInput, message) {
   
 }
 
+let diceRollCommand2d6 = function (numToAdd, message) {
+  
+  
+  
+}
+
 // Random integer function
 let getRandomInt = function (min, max) {
   min = Math.ceil(min);
