@@ -67,7 +67,6 @@ client.on("message", function (message) {
       printTextCommandHW(afterFirstWord, message);
       
     }
-    
   }
   
 });
