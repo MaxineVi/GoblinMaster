@@ -220,7 +220,7 @@ let diceRollCommand = function (diceInput, message) {
   
 }
 
-let diceRollCommand2d6 = function (numToAdd, message) {
+let diceRollCommand2d6 = function (numInput, message) {
   
   
   
