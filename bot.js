@@ -248,7 +248,7 @@ let diceRollCommand2d6 = function (numInput, message) {
   
   let resultTotal = dieTotal + numToAdd;
   
-  message.channel.send("Roll results: " + dieResults.toString() + "\nTotal: " + dieTotal + "+" + numToAdd + "=" + resultTotal);
+  message.channel.send("Roll results: " + dieResults.toString() + "\nTotal:\t" + dieTotal + " + " + numToAdd + " = " + resultTotal);
   
 }
 
