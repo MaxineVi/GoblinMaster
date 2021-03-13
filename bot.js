@@ -222,7 +222,27 @@ let diceRollCommand = function (diceInput, message) {
 
 let diceRollCommand2d6 = function (numInput, message) {
   
+  // numInput is raw user input
+  // numToAdd is the parsed number
+  let numToAdd = 0;
+
+  if (numInput == "") {
+    // no input provided, assume we add 0
+    // numToAdd is alread 0, don't do anything
+  } else if (isNaN(numInput)) {
+    // not a number, return an error message
+    message.channel.send("The number to add is not valid.");
+    return false; // exit without doing anything
+  }
   
+  let dieTotal = 0;
+  let dieResults = [];
+  
+  // set first die roll
+  dieResults.push( getRandomInt(1,6) ); // first roll
+  dieResults.push( getRandomInt(1,6) ); // second roll
+  // set total
+  dieTotal = dieResults[0] + dieResults[1];
   
 }
 
