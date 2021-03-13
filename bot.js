@@ -70,7 +70,7 @@ client.on("message", function (message) {
     
     if (firstWord === "roll") {
       
-      diceRollCommand("6*2", message);
+      diceRollCommand2d6(afterFirstWord, message);
       
     }
   }
@@ -233,6 +233,8 @@ let diceRollCommand2d6 = function (numInput, message) {
     // not a number, return an error message
     message.channel.send("The number to add is not valid.");
     return false; // exit without doing anything
+  } else {
+    numToAdd = parseInt(numInput);
   }
   
   let dieTotal = 0;
@@ -243,6 +245,10 @@ let diceRollCommand2d6 = function (numInput, message) {
   dieResults.push( getRandomInt(1,6) ); // second roll
   // set total
   dieTotal = dieResults[0] + dieResults[1];
+  
+  let resultTotal = dieTotal + numToAdd;
+  
+  message.channel.send("Roll results: " + dieResults.toString() + "\nTotal: " + dieTotal + "+" + numToAdd + "=" + resultTotal);
   
 }
 
