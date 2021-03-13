@@ -70,7 +70,7 @@ client.on("message", function (message) {
     
     if (firstWord === "roll") {
       
-      rollRollCommand(afterFirstWord, message);
+      diceRollCommand("6*2", message);
       
     }
   }
@@ -219,8 +219,6 @@ let diceRollCommand = function (diceInput, message) {
   }
   
 }
-
-let rollRollCommand = function ()
 
 // Random integer function
 let getRandomInt = function (min, max) {
