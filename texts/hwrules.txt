@@ -97,8 +97,7 @@ When you **pay a follower’s cost**, increase their Loyalty by 1 (to a maximum 
 ---watch them go
 When a follower **has -3 Loyalty**, they will betray or abandon you at the next opportunity.
 ---monsters & followers
-When you **turn a monster into a follower**, give it a Quality score
-from -1 to +2 (or even +3 if it’s truly magnificent). Set its Loyalty as with any new follower. Choose (or make up) a Cost. Add any tags you deem appropriate, but otherwise use as-is.
+When you **turn a monster into a follower**, give it a Quality score from -1 to +2 (or even +3 if it’s truly magnificent). Set its Loyalty as with any new follower. Choose (or make up) a Cost. Add any tags you deem appropriate, but otherwise use as-is.
 When you **turn a follower into a monster**, use their stats as-is.
 ---journey
 When you **travel by a safe route**, through safe or dangerous lands, indicate your destination on the map. The GM will tell you how long the trip takes, and what (if anything) happens along the way. When you reach your destination, choose someone to Manage Provisions to determine how many rations were consumed over the course of the trip.
