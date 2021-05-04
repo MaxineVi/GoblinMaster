@@ -2,7 +2,7 @@
   "//1": "describes your app and its dependencies",
   "//2": "https://docs.npmjs.com/files/package.json",
   "//3": "updating this file will download and update your packages",
-  "name": "wheybot",
+  "name": "goblinmaster",
   "version": "1.0.0",
   "description": "Game rules for Dungeon World and Hollow World.",
   "main": "bot.js",
