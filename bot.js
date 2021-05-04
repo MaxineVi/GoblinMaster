@@ -50,8 +50,9 @@ client.on("message", function (message) {
         
     }
     
-    if (/d(\d+\*?\d*)/.exec(message.content)){
-      diceRollCommand()
+    let re = new RegExp(commandPrefix + "d\d+");
+    if (/d\d+/.exec(message.content)){
+      diceRollCommand(/d(.*)$/.exec(message.content)[1], message);
     }
     
     if (firstWord === "c") {
