@@ -50,8 +50,7 @@ client.on("message", function (message) {
         
     }
     
-    let re = new RegExp(commandPrefix + "d\d+");
-    if (/d\d+/.exec(message.content)){
+    if (/^d\d+/.exec(message.content)){
       diceRollCommand(/d(.*)$/.exec(message.content)[1], message);
     }
     
@@ -253,7 +252,13 @@ let diceRollCommand2d6 = function (numInput, message) {
   
   let resultTotal = dieTotal + numToAdd;
   
-  message.channel.send("Roll results: " + dieResults.toString() + "\nTotal:\t" + dieTotal + " + " + numToAdd + " = " + resultTotal);
+  let rollMessage = "Roll results: " + dieResults.toString() + "\nTotal:\t" + dieTotal;
+  if (numToAdd > 0) {
+    rollMessage += " + " + numToAdd;
+  }
+  rollMessage += " = " + resultTotal;
+  
+  message.channel.send(rollMessage);
   
 }
 
