@@ -31,7 +31,7 @@ client.on("message", function(message) {
     }
 
     // Hello command
-    if (message.content === "hello GoblinMaster") {
+    if (/^hello Goblin(Master)?$/i.exec(message.content)") {
       // <@userid> is the syntax Discord uses for a mention
       message.channel.send("hello <@" + message.author.id + ">!");
     }
