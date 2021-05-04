@@ -77,6 +77,10 @@ client.on("message", function (message) {
       diceRollCommand2d6(afterFirstWord, message);
       
     }
+    
+    if (/^roll[\+\-]?\d+/.exec(message.content)){
+      diceRollCommand2d6(/^roll(.*)$/.exec(message.content)[1], message);
+    }
   }
   
 });
@@ -253,10 +257,9 @@ let diceRollCommand2d6 = function (numInput, message) {
   let resultTotal = dieTotal + numToAdd;
   
   let rollMessage = "Roll results: " + dieResults.toString() + "\nTotal:\t" + dieTotal;
-  if (numToAdd > 0) {
-    rollMessage += " + " + numToAdd;
+  if (numToAdd != 0) {
+    rollMessage += " + " + numToAdd + " = " + resultTotal;
   }
-  rollMessage += " = " + resultTotal;
   
   message.channel.send(rollMessage);
   
