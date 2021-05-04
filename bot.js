@@ -203,23 +203,35 @@ let diceRollCommand = function(diceInput, message) {
       );
     }
   }
-  else if (message.content.includes("+")){
+  else /*if (message.content.includes("+"))*/{
     
     let splitDiceInput = diceInput.split("+");
     
+    let rolls = [];
+    let dieTotal = 0;
+    
     for (let i = 0; i < splitDiceInput.length; i++) {
-      let numSide = splitDiceInput[i];
-      console.log("Sabie" + numSide);
+      let numSides = splitDiceInput[i];
+      if (numSides && !isNaN(numSides) && numSides > 1) {
+        console.log("Sabie" + numSides);
+
+        let thisRoll = getRandomInt(1, numSides);
+        rolls.push(thisRoll);
+        dieTotal += thisRoll;
+        
+      } else {
+        message.channel.send(
+          "The number of sides must be provided as a number greater than 1."
+        );
+      }
     } 
     
-    let numSideFirst = splitDiceInput[0];
-    let numSideSecond = splitDiceInput[1];
-    let numSideThird = splitDiceInput[2];
-    
-    console.log(numSideFirst)
-    console.log(numSideSecond)
-    console.log(numSideThird)
-   
+    console.log(rolls.join(" + "));
+   if (rolls.length > 1){
+    message.channel.send("Roll results: " + rolls.join(",") + "\nTotal: " + dieTotal);
+   } else {
+     message.channel.send("Roll results: " + rolls.join(",") + "\nTotal: " + dieTotal);
+   }
   }
 };
 
