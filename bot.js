@@ -56,13 +56,13 @@ client.on("message", function (message) {
       
     }
     
-    if (firstWord === "dwrules") {
+    if (firstWord === "dw") {
       
       printTextCommandDW(afterFirstWord, message);
       
     }
     
-    if (firstWord === "hwrules") {
+    if (firstWord === "hw") {
       
       printTextCommandHW(afterFirstWord, message);
       
