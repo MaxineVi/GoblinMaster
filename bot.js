@@ -204,7 +204,22 @@ let diceRollCommand = function(diceInput, message) {
     }
   }
   else if (message.content.includes("+")){
-    let 
+    
+    let splitDiceInput = diceInput.split("+");
+    
+    for (let i = 0; i < splitDiceInput.length; i++) {
+      let numSide = splitDiceInput[i];
+      console.log("Sabie" + numSide);
+    } 
+    
+    let numSideFirst = splitDiceInput[0];
+    let numSideSecond = splitDiceInput[1];
+    let numSideThird = splitDiceInput[2];
+    
+    console.log(numSideFirst)
+    console.log(numSideSecond)
+    console.log(numSideThird)
+   
   }
 };
 
