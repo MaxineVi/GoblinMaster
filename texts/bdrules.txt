@@ -1,0 +1,36 @@
+---melee
+When you **attack an enemy in melee**, roll+Strength. On a 10+, you deal your damage to the enemy and avoid being damaged. You may choose to deal +1d6 damage and expose yourself to the enemy attack. On a 7-9, you deal your damage to the enemy and the enemy makes an attack against you.
+---ranged
+When you take aim and **attack an enemy at range**, roll+Presence. On a 10+, your shot is clear, deal your damage. On a 7-9, choose one, and then deal your damage.
+• You have to move to get the shot placing you in a danger of the GM’s choice.
+• You have to take what you can get, roll damage twice and take the lower result.
+• You have to take several shots, reducing your ammo by one.
+---evade
+When you **act quickly despite an immediate attack or danger**, roll+Agility. On a 10+, you do it. On a 7-9, in the doing of it there will be a cost, complication, or choice introduced by the GM.
+---endure
+When you **endure a hardship that might kill a weaker soul**, roll+Toughness. On a 10+, you endure but choose three. On a 7-9, choose two.
+• You take little or no harm.
+• You don’t lose track of something important.
+• You need little time to recover.
+• Nothing feels your suffering and reacts to it.
+---words of power
+When you **invoke the power of a scroll you have communed with**, roll+Presence. On a 10+, you successfully unleash the scrolls power without consequence. On a 7-9, this scrolls power is unleashed but choose one:
+• You draw unwelcome attention or put yourself in a spot. The GM will tell you how.
+• The scroll saps your energy. You take -1 ongoing to Presence until you have a few minutes to clear your head.
+• After the scroll's power is unleashed, its power is forgotten, you cannot invoke its power until the next time you commune.
+---humanity fractured
+When you **inflict *humanity harm*** on someone, they face a hard truth about themselves or their beliefs. They either will not face it, or the act of them doing so has a harmful impact.
+When you **take *humanity harm***, mark one humanity and choose one:
+• You lose moments/minutes/hours as decided by the fiction.
+• Must answer any question posed to you.
+• Take disadvantage forward.
+---defy death
+When you’re dying and you catch a glimpse of what lies beyond this miserable life, mark one humanity and roll+Toughness. On a 10+, you’ve cheated death, you’re in a bad spot but you’re still alive. On a 7-9, a sacrifice is needed. Make a considerable enough sacrifice and stabilize or refuse and pass beyond into whatever fate awaits you. On a miss, your fate is sealed. You’re marked as Death’s own and you’ll cross the threshold soon. The GM will tell you when.
+---evolve
+When you have five humanity, you may subtract five at any time and come up with a move with your GM that you think would be appropriate for the strife your character has been through.
+---rest
+When you **settle in to rest and consume a ration**, as long as long as you get at least a few hours of uninterrupted sleep, heal damage equal to half your max HP.
+---commune
+When you spend uninterrupted time (an hour or so) in **quiet contemplation** with your scrolls, you are granted the ability to invoke the power of these scrolls.
+---encumbrance
+When you **make a move while carrying weight up to or equal to Load**, you’re fine. When you make a move while carrying weight equal to load+1 or load+2, you take -1. When you make a move while carrying weight greater than load+2, you have a choice: drop at least 1 weight and roll at -1, or automatically fail.
