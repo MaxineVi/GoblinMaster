@@ -31,7 +31,7 @@ client.on("message", function(message) {
     }
 
     // Hello command
-    if (message.content === "hello wheybot") {
+    if (message.content === "hello GoblinMaster") {
       // <@userid> is the syntax Discord uses for a mention
       message.channel.send("hello <@" + message.author.id + ">!");
     }
@@ -233,3 +233,9 @@ let getRandomInt = function(min, max) {
 };
 
 client.login(process.env.SECRET);
+
+client.on("ready", ()=>{
+  client.user.setActivity("Artist Credit @myvariantart", {
+    type: "PLAYING",
+  });
+})
