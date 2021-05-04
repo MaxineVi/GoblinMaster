@@ -105,12 +105,12 @@ let printTextCommandDW = function (argument, message) {
       fileSection = fileSection.split(controlSequence)[0];
             
       
-      let embed = new Discord.RichEmbed({
+      let embed = new Discord.MessageEmbed({
         "title": argument,
         "description": fileSection
       });
       
-      message.channel.sendEmbed(embed);
+      message.channel.send(embed);
     }
   });
   
@@ -148,12 +148,12 @@ let printTextCommandHW = function (argument, message) {
       fileSection = fileSection.split(controlSequence)[0];
             
       
-      let embed = new Discord.RichEmbed({
+      let embed = new Discord.MessageEmbed({
         "title": argument,
         "description": fileSection
       });
       
-      message.channel.sendEmbed(embed);
+      message.channel.send(embed);
     }
   });
 };
