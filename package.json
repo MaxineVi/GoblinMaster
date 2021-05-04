@@ -4,10 +4,11 @@
   "//3": "updating this file will download and update your packages",
   "name": "wheybot",
   "version": "1.0.0",
-  "description": "Game rules for Dungeon World and Hollow World",
+  "description": "Game rules for Dungeon World and Hollow World.",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node bot.js",
+    "serverstart": "npm i && node bot.js"
   },
   "dependencies": {
     "discord.js": "^12.5.2",
