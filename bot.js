@@ -54,12 +54,16 @@ client.on("message", function(message) {
       calcCommand(afterFirstWord, message);
     }
 
+    if (firstWord === "bd") {
+      printTextCommand(afterFirstWord, message, "bdrules.txt");
+    }
+    
     if (firstWord === "dw") {
-      printTextCommandDW(afterFirstWord, message);
+      printTextCommand(afterFirstWord, message, "dwrules.txt");
     }
 
     if (firstWord === "hw") {
-      printTextCommandHW(afterFirstWord, message);
+      printTextCommand(afterFirstWord, message, "hwrules.txt");
     }
 
     if (firstWord === "roll") {
@@ -72,53 +76,8 @@ client.on("message", function(message) {
   }
 });
 
-let printTextCommandDW = function(argument, message) {
-  // Remove all non-alphanumeric characters
-  // argument = argument.replace(/\W/g, '');
-
-  // readFile takes the following arguments: path to file, callback function
-  fs.readFile("./texts/dwrules.txt", "utf8", function(error, data) {
-    if (error) {
-      message.channel.send("text file could not be accessed");
-    } else {
-      let fileSection;
-
-      let controlSequence = "---";
-
-      // Split string on ---argument and get everything after it
-      fileSection = data.split(controlSequence + argument)[1];
-
-      if (!fileSection) {
-        message.channel.send("Couldn't find that rule.");
-        return false;
-      }
-
-      // Now we need to remove everything after the following --- (or else it's end of file)
-      fileSection = fileSection.split(controlSequence)[0];
-
-      let embed = new Discord.MessageEmbed({
-        title: argument,
-        description: fileSection
-      });
-
-      message.channel.send(embed);
-    }
-  });
-
-  //   // readFile takes the following arguments: path to file, callback function
-  //   fs.readFile("./texts/" + argument + ".txt", "utf8", function (error, data) {
-  //     if (error) {
-  //       message.channel.send("couldn't find that text");
-  //     } else {
-  //       console.log(data)
-
-  //       message.channel.send(data);
-  //     }
-  //   });
-};
-
-let printTextCommandHW = function(argument, message) {
-  fs.readFile("./texts/hwrules.txt", "utf8", function(error, data) {
+let printTextCommand = function(argument, message, file) {
+  fs.readFile(`./texts/${file}`, "utf8", function(error, data) {
     if (error) {
       message.channel.send("text file could not be accessed");
     } else {
@@ -158,9 +117,7 @@ let calcCommand = function(expression, message) {
 };
 
 let diceRollCommand = function(diceInput, message) {
-  
   if (message.content.includes("*")) {
-    
     let splitDiceInput = diceInput.split("*");
 
     let numSides = splitDiceInput[0];
@@ -202,36 +159,33 @@ let diceRollCommand = function(diceInput, message) {
         "The number of sides must be provided as a number greater than 1."
       );
     }
-  }
-  else /*if (message.content.includes("+"))*/{
-    
+  } /*if (message.content.includes("+"))*/ else {
     let splitDiceInput = diceInput.split("+");
-    
+
     let rolls = [];
     let dieTotal = 0;
-    
+
     for (let i = 0; i < splitDiceInput.length; i++) {
       let numSides = splitDiceInput[i];
       if (numSides && !isNaN(numSides) && numSides > 1) {
-        console.log("Sabie" + numSides);
 
         let thisRoll = getRandomInt(1, numSides);
         rolls.push(thisRoll);
         dieTotal += thisRoll;
-        
       } else {
         message.channel.send(
           "The number of sides must be provided as a number greater than 1."
         );
       }
-    } 
-    
-    console.log(rolls.join(" + "));
-   if (rolls.length > 1){
-    message.channel.send("Roll results: " + rolls.join(",") + "\nTotal: " + dieTotal);
-   } else {
-     message.channel.send("Roll results: " + rolls.join(",") + "\nTotal: " + dieTotal);
-   }
+    }
+
+    if (rolls.length > 1) {
+      message.channel.send(
+        "Roll results: " + rolls.join(",") + "\nTotal: " + dieTotal
+      );
+    } else {
+      message.channel.send("Roll result: " + dieTotal);
+    }
   }
 };
 
