@@ -50,6 +50,10 @@ client.on("message", function (message) {
         
     }
     
+    if (/d(\d+\*?\d*)/.exec(message.content)){
+      diceRollCommand()
+    }
+    
     if (firstWord === "c") {
       
       calcCommand(afterFirstWord, message);
