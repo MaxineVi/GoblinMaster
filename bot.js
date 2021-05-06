@@ -29,6 +29,10 @@ client.on("message", function (message) {
                 message.content.length
             );
         }
+        
+        if (firstWord === "help") {
+            printTextCommand(afterFirstWord, message, "help.txt");
+        }
 
         // Hello command
         if (/^hello Goblin(Master)?$/i.exec(message.content)) {
@@ -48,6 +52,18 @@ client.on("message", function (message) {
 
         if (/^d\d+/.exec(message.content)) {
             diceRollCommand(/d(.*)$/.exec(message.content)[1], message);
+        }
+        
+        if (firstWord === "ad") {
+            advantageDiceCommand(afterFirstWord, message, "advantage");
+        }
+    
+        if (firstWord === "dd") {
+            advantageDiceCommand(afterFirstWord, message, "disadvantage")
+        }
+    
+        if (firstWord === "exd") {
+            explodingDiceCommand(afterFirstWord, message);
         }
 
         if (firstWord === "c") {
@@ -191,6 +207,144 @@ let diceRollCommand = function (diceInput, message) {
             message.channel.send("Roll result: " + dieTotal);
         }
     }
+};
+
+let advantageDiceCommand = function(diceInput, message, advantageRoll) {
+let splitDiceInput = diceInput.split("*");
+  
+  let numSides = splitDiceInput[0];
+  let numRolls = splitDiceInput[1];
+
+  console.log(numSides);
+  console.log(numRolls);
+  
+  if (numRolls) {
+  // if numRolls isn't a number, OR if it's a number less than 1
+  if (isNaN(numRolls) || numRolls < 1) {
+    message.channel.send("The number of rolls is not valid.");
+    return false; // exit the function without doing anything else
+  }
+  } else {
+    numRolls = 2;
+  }
+
+  //if NOT not a number (=== is a number) AND if it exists AND if it's greater than 1
+  if (numSides && !isNaN(numSides) && numSides > 1) {
+    
+    let dieResults = [];
+
+    // for "i" from zero to the number of rolls we want, run this loop i times
+    for (let i = 0; i < numRolls; i++) {
+      let thisRoll = getRandomInt(1, numSides);
+
+      dieResults.push(thisRoll);
+      
+    }
+    
+    if (advantageRoll === "advantage") {
+      
+      let dieHigh = Math.max(...dieResults)
+      
+      message.channel.send(
+        "Roll results: " + dieResults.toString() + "\nYou rolled: " + dieHigh
+      );
+    }
+    
+    if (advantageRoll === "disadvantage") {
+      
+      let dieLow = Math.min(...dieResults)
+      
+      message.channel.send(
+        "Roll results: " + dieResults.toString() + "\nYou rolled: " + dieLow
+      );
+    }
+  } else {
+    message.channel.send(
+       "The number of sides must be provided as a number greater than 1."
+    );
+  }
+}
+
+let explodingDiceCommand = function(diceInput, message) {
+  if (message.content.includes("*")) {
+    let splitDiceInput = diceInput.split("*");
+
+    let numSides = splitDiceInput[0];
+    let numRolls = parseInt(splitDiceInput[1]);
+
+    console.log(numSides);
+    console.log(numRolls);
+
+    if (numRolls) {
+      // if numRolls isn't a number, OR if it's a number less than 1
+      if (isNaN(numRolls) || numRolls < 1) {
+        message.channel.send("The number of rolls is not valid.");
+        return false; // exit the function without doing anything else
+      }
+    } else {
+      numRolls = 1;
+    }
+
+    //if NOT not a number (=== is a number) AND if it exists AND if it's greater than 1
+    if (numSides && !isNaN(numSides) && numSides > 1) {
+      let dieTotal = 0;
+
+      let dieResults = [];
+
+      // for "i" from zero to the number of rolls we want, run this loop i times
+      for (let i = 0; i < numRolls; i++) {
+        let thisRoll = getRandomInt(1, numSides);
+
+        dieResults.push(thisRoll);
+
+        dieTotal = dieTotal + thisRoll;
+        
+        if (thisRoll == numSides) {
+          numRolls = numRolls + 1;
+        }
+      }
+
+      message.channel.send(
+        "Roll results: " + dieResults.toString() + "\nTotal: " + dieTotal
+      );
+    } else {
+      message.channel.send(
+        "The number of sides must be provided as a number greater than 1."
+      );
+    }
+  } /*if (message.content.includes("+"))*/ else {
+    let splitDiceInput = diceInput.split("+");
+
+    let rolls = [];
+    let dieTotal = 0;
+
+    for (let i = 0; i < splitDiceInput.length; i++) {
+      let numSides = splitDiceInput[i];
+      if (numSides && !isNaN(numSides) && numSides > 1) {
+        let numRolls = 1;
+        for (let j = 0; j < numRolls; j++) {
+          let thisRoll = getRandomInt(1, numSides);
+          rolls.push(thisRoll);
+          dieTotal += thisRoll;
+          if (thisRoll == numSides) {
+            numRolls = numRolls + 1;
+          }
+        }
+      } else {
+        message.channel.send(
+          "The number of sides must be provided as a number greater than 1."
+        );
+      }
+    }
+
+    if (rolls.length > 1) {
+      message.channel.send(
+        "Roll results: " + rolls.join(",") + "\nTotal: " + dieTotal
+      );
+    } else {
+      message.channel.send("Roll result: " + dieTotal);
+    }
+  }
 };
 
 let diceRollCommand2d6 = function (numInput, message) {
