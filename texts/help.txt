@@ -1,0 +1,40 @@
+---
+the functions this bot is capable of are:
+"**!hello goblin, !hello gobinmaster**" to say hi.
+"**!echo**" to echo your message.
+"**!bd**" to read some basic moves from The Blazing Dark.
+"**!dw**" to read some basic moves from Dungeon World.
+"**!hw**" to read some basic moves from Hollow World.
+"**!c**" to preform math equations.
+"**!d**" to roll dice, use "!help !d" for more information.
+"**!ad, !dd**" will roll with advantage or disadvantage respectively, use "!help !ad" for more infortmation.
+"!exd" will roll a dice and then roll and additional dice each time the max result is rolled.
+"**!dicemath**" to roll dice within math equations, use "!help !dicemath" for more information.
+"**!roll**" to roll two d6, use "!help !roll" for more information.
+---!d
+"**!d (num)**" will roll a dice with (num) sides.
+"**!d (diceSides)*(diceRolled)**" will roll (diceRolled) many dice with (diceSides) many sides.
+"**!d (num)+(num)**" will roll any number of dice seperated by "+" where (num) is the number of sides on each of those dice.
+---!ad
+"**!ad (num)**" will roll two dice with (num) sides and give the highest result.
+"**!ad (diceSides)*(diceRolled)**" will roll (diceRolled) many dice with (diceSides) many sides and give the highest result.
+---!dd
+"**!dd (num)**" will roll two dice with (num) sides and give the lowest result.
+"**!dd (diceSides)*(diceRolled)**" will roll (diceRolled) many dice with (diceSides) many sides and give the lowest result.
+---!exd
+"**!exd (num)**" will roll a dice with (num) sides and roll an additional dice each time the max result is rolled.
+"**!exd (diceSides)*(diceRolled)**" will roll (diceRolled) many dice with (diceSides) many sides and roll an additional dice each time the max result is rolled.
+"**!d (num)+(num)**" will roll any number of dice seperated by "+" where (num) is the number of sides on each of those dice, and will roll an additional one of those dice each time the max result of that dice is rolled.
+---!dicemath
+**!dicemath** will do an equation after it rolls dice.
+d(num) will roll one dice with (num) sides.
+(num1)d(num2) will roll (num1) dice with (num2) sides.
+(a/b)d(num) will roll two dice with (num) sides and use the best result.
+(d/w)d(num) will roll two dice with (num) sides and use the worst result
+(a/b)(num1)d(num2) will roll (num1) dice with (num2) sides and use the best result.
+(d/w)(num1)d(num2) will roll (num1) dice with (num2) sides and use the worst result.
+ed(num) will roll one dice with (num) sides and roll an additional dice each time the max result is rolled.
+e(num1)d(num2) will roll (num1) dice with (num2) sides and roll an additional dice each time the max result is rolled.
+---!roll
+"**!roll**" will roll two d6.
+"**!roll (+/-)(int)**" will roll two d6 and add or subtract the integer.
