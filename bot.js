@@ -81,6 +81,18 @@ client.on("message", function (message) {
         if (firstWord === "hw") {
             printTextCommand(afterFirstWord, message, "hwrules.txt");
         }
+        
+        if (firstWord === "bdbackgrounds") {
+            printTextCommand(afterFirstWord, message, "bdbackgrounds.txt");
+        }
+    
+        if (firstWord === "troikabg") {
+            printTextCommand(afterFirstWord, message, "troikabackgrounds.txt");
+        }
+    
+        if (firstWord === "bgroll") {
+            backgroundTextCommand(afterFirstWord, message);
+        }
 
         if (firstWord === "roll") {
             diceRollCommand2d6(afterFirstWord, message);
@@ -135,6 +147,30 @@ let calcCommand = function (expression, message) {
         );
     }
 };
+
+let backgroundTextCommand = function(sheet, message) {
+    if (sheet === "bd") {
+        let dieOne = getRandomInt(1, 6);
+        let dieTwo = getRandomInt(1, 6);
+    
+        let resultPath = dieOne.toString() + dieTwo.toString();
+    
+        printTextCommand(resultPath, message, "bdbackgrounds.txt");
+    } 
+  
+    if (sheet === "troika") {
+        let dieOne = getRandomInt(1, 6);
+        let dieTwo = getRandomInt(1, 6);
+    
+        let resultPath = dieOne.toString() + dieTwo.toString();
+    
+        printTextCommand(resultPath, message, "troikabackgrounds.txt");
+    } else {
+        message.channel.send(
+            "I can't roll a background for that sorry."
+        );
+    }
+}
 
 let diceRollCommand = function (diceInput, message) {
     if (message.content.includes("*")) {
