@@ -1,0 +1,774 @@
+---11
+**Warrior of the Hysminai Marshes**
+You are from the dangerous Hysminai Marshes, you made your trade defending those in need for coin or for friendship. Those marshes have long since dried into a desert now and so you wander with all that is left of your home in your heart and behind every swing of your blade.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength +1, Sharp +0, Presence -1, Resolve +2
+
+*Possessions*
+Ancient Rusted Blade (Heavy Weapon)
+Mud Caked Hides (worn, 0 weight)
+Pouch of Assorted Demon Jerkies (2x Basic Rations)
+Old Grenade (Bomb)
+Poultices and Herbs
+Survival Gear
+3d6 Silver
+
+*Starting Move*
+***Reliable***
+Once per battle you may reroll a single damage roll (yours or someone else’s).
+---12
+**Glory Seeker**
+You were raised in a culture of battle and war, you were taught that the Shimmering Fields are for those who leap into battle, those who are first to reap glory.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength +1, Sharp -1, Presence +1, Resolve +1
+
+*Possessions*
+Shimmering Insignia (0 weight), you can show this to others and they will recognise your house as one that inspires either fear or prestige.
+2x Ornate Swords (2x Light Weapon)
+Mother’s Armor (Light Armor)
+Fine Breads (1x Basic Rations)
+2x Life Elixir
+1d8\*10 Silver
+
+*Starting Move*
+***First to Strike***
+When you **make the first strike in battle**, you may deal your damage and ignore all obstacles or dangers.
+---13
+**Back Alley Brawler**
+Years of bare knuckle fighting have turned your hands into deadly bludgeons. They are heavy with scars from the guilty and innocent. Even now that your city home is derelict and your old street corners are empty, you can brawl with the horrifying and demonic with just your fists.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength +2, Sharp +0, Presence +0, Resolve +0
+
+*Possessions*
+Knucklebone Dice
+Thick Pants, Buttoned Shirt, Suspenders and Heavy Boots (worn, 0 weight)
+Two Vials of Berry Blood (2x Red Poison)
+Sack of Ground Oats for Gruel (3x Basic Rations)
+2x Poultices and Herbs
+Survival Gear
+10d4 Silver
+
+*Starting Move*
+***Bloodied Knuckles***
+Your unarmed attacks deal the best of 2d6 damage and ignore armor.
+---14
+**Heritor of an Ancient Quest**
+You come from an ancient order of esteemed knights who were popular all throughout your homeland of Arete. Your order did good all throughout the lands, but behind it all they had one lofty goal, to find the grail perhaps, or maybe it was a mystical sword. Whatever the quest, they never completed it, and you are the last knight of that order.
+
+Ability Scores
+(Add +1 to one of these)
+Strength +0, Sharp +0, Presence +1, Resolve +1
+
+Possessions
+An epic poem with clues on your orders quest (0 weight)
+Crested Armor (Heavy Armor)
+Longsword (Medium Weapon)
+Patterned Shield (Shield)
+Random Sacred Scroll
+Preserved Meats (2x Basic Rations)
+Life Elixir
+1d4\*10 Silver
+
+*Starting Moves*
+***Armored***
+You ignore the *clumsy* tag on armor you wear.
+***Guidance***
+When you **pray for guidance, even for a moment and ask “what here is evil?”**, the GM will tell you, honestly, based on the perceptions of your god or religion.
+---15
+**Deserter of the Last Watch**
+You were no one before the apocalypse, what happened before wasn't important to who you are now or perhaps you were too young to even remember it. But after it all started, you were a proud member of the Last Watch, a militia who went about establishing order during the end times. That is until you learned the truth of the Last Watch, whether you walked in on something you shouldn’t have, or maybe you witnessed a massacre in the name of peace and order that made you finally see the truth. Whatever happened, you fled, now there are bounties out for your arrest and you are hunted by once friends and comrades.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength +0, Sharp +1, Presence +0, Resolve +1
+
+*Possessions*
+Your half of a friendship necklace (0 weight)
+Well Kept Glaive (Long Weapon)
+Heavy Crossbow (Heavy Ranged)
+A few remaining bolts (Heavy Ammo)
+Forsaken Militia Uniform (Light Armor)
+Spare pair of clothes (worn, 0 weight)
+Edible Nuts and Berries (1x Basic Rations)
+Trapping Gear (3 uses, 1 weight)
+Survival Gear
+2d2 Silver
+
+*Starting Move*
+***Foraging***
+When you **spend a few hours seeking food in the wilds**, and your surroundings are not barren, roll+Resolve. On a 7+, you gain 1d4 rations, +1d4 rations if you use some trapping gear. On a 7-9, you face a danger of the GM’s choice while foraging.
+---16
+**Black Knight of Eleos**
+You are a black knight from the land of Eleos, you try your best to keep your name hidden as your people always have. To be a black knight is to help others without desire of renown or admiration. Now there are few of you left and others of your once humble order have used their anonymity for ill deeds, the armor you wear now carries the weight of all that greed and treachery.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength +1, Sharp +1, Presence -1, Resolve +1
+
+*Possessions*
+Black Knight Armor (Heavy Armor)
+Black Knight Greatsword (Heavy Weapon with the *holy* and *unholy* tags)
+Two Different Random Unclean Scrolls, held to protect others from their power.
+Nuts and Dried Fruits (2x Basic Rations)
+2x Poultices and Herbs
+
+*Starting Moves*
+***Armored***
+You ignore the *clumsy* tag on armor you wear.
+***Blackened Blade of Eleos***
+When you **have access to a significant holy site and burn a scroll of power to be absorbed by your greatsword**, roll+Resolve. On a 7+, the black metal of Eleos absorbs the scroll’s power and your sword is made more powerful somehow. On a 7-9, something dangerous and angry is unleashed from the scroll in the process.
+---21
+**Monarch of Rubble and Ashes**
+You were royalty before it all came down, a wasteland palace reduced to rubble. Disaster even now follows in your wake, attracted to the scent of your spoor. You hope it and your past never catch up with you.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength -1, Sharp +1, Presence +2, Resolve +0
+
+*Possessions*
+Mark of Royalty (0 weight)
+Sword of Kings (Light Weapon with the *holy* tag)
+Poorly Washed Finery (worn, 0 weight)
+Random Sacred Scroll, stolen from your palace.
+Dried Meats and Honey (2x Basic Rations)
+Pouch of Crimson Snakeroot Powder (3x Red Poison)
+20d10 Silver
+
+*Starting Moves*
+***Royal Past***
+When you Recollect concerning matters of royalty, nobility and treasures, you may Recollect using Presence instead of Resolve.
+***Disaster Befall***
+When you spend a few days in one area without moving on, the disaster catches up with you.
+---22
+**My Dear Immolator**
+You always loved fire, you loved to watch it burn, you loved to watch it consume. You’d set things ablaze whenever you got the chance. You dedicated yourself to the fire, and one day, the fire dedicated itself to you too.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength -1, Sharp -1, Presence +2, Resolve +2
+
+*Possessions*
+Box of Matches (10 uses, 0 weight)
+Oiled Sword (Medium Weapon that when set on fire gains the *dangerous*, *fire* and *+1 damage* tags)
+Scorched Clothes (worn, 0 weight)
+Unknot the Sun In a Brilliant Blaze and one other random Unclean Scroll
+Spicy Curry on Rice (2x Basic Rations)
+Pouch of Fire Bombs (count as 2x Bombs that each have the *fire* tag)
+3d8 Silver
+
+*Starting Move*
+***Passionate Fire***
+Heat and fire cannot harm you.
+---23
+**Scryer to the Old Court of Mages**
+You were once a powerful mage of the courts of Mnemosyne, you were a trusted advisor to many royals and other mages alike. But after all your scrying of past knowledge you brushed one too many traumas, you are haunted now by the memories of those long dead. Even if their spirits have moved on, and the bodies are dust, their memories linger for eternity.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength +0, Sharp +0, Presence +1, Resolve +1
+
+*Possessions*
+Crystal Ball (0 weight), you don’t need it anymore but it's still sentimental.
+Long Ornate Staff (Long Weapon)
+Stained Court Robes (worn, 0 weight)
+Whispers Pass the Grand Gates and one random Unclean Scroll
+Fine Pastries (2x Basic Rations)
+Poultices and Herbs
+8d10 Silver
+
+*Starting Moves*
+***Suffering Recalled***
+When you **Recollect concerning matters of great suffering**, take +1.
+***Dead Memories***
+When you **encounter a place of great suffering**, you may relive the tragedy through the memory that lingers.
+---24
+**Hungry, Thirsty, Leech**
+You have a unique appetite, an acquired taste, or perhaps a disease, maybe a curse, an eternal thirst. You like blood, the taste, the texture, you don’t care what, or even whose blood it is, it's all amazing to you. Blood heals and sustains you, and it does it well too.
+
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength +1, Sharp +0, Presence +1, Resolve +0
+
+*Possessions*
+Steel Straight Sword (Medium Weapon)
+Black Iron Shortsword (Light Weapon with the *unholy* tag)
+Thickly Padded Coat (Light Armor)
+Three Vials of Old Coagulating Blood (1x Basic Rations)
+6d4 Silver
+
+*Starting Move*
+***Strange Thirst***
+Fresh blood heals you for 1d6 hp. You may still eat regular food, but only blood will heal you.
+---25
+**Survivor of the Keres Massacre**
+You were the sole survivor of a massacred village, your family and everyone you knew was killed. Now the butchers hunt you, wishing to finish the job they started. You're never safe, all these years on the run have left you terrified, you jitter about with birdlike movements.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength +0, Sharp +1, Presence +0, Resolve +1
+
+*Possessions*
+Hunting Bow (Heavy Ranged)
+Sizable Quiver (2x Heavy Ammo)
+Silver Straight Sword (Medium Weapon with the *holy* tag)
+Large Muddied Shield (Shield)
+Layered Hides (Light Armor)
+Jerky and Stale Bread (2x Basic Rations)
+2d4 Silver
+
+*Starting Move*
+***Shoot First***
+You’re never caught by surprise. When an enemy would get the drop on you, you get to act first instead.
+---26
+**Beastly Scholar**
+You are a scholar of woods, you grew up with the trees and the beasts. You studied all the beasts of the lands before all this, attempting to gain their guttural knowledge. But now the world is sick and dying, and you have little time left to understand it. The beasts that are left must be read for all their words, you have no time to study them in any other way, so you gut them and spill their viscera into words that will uncover secrets of this world.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength +0, Sharp +1, Presence +0, Resolve +1
+
+*Possessions*
+Old Binoculars (0 weight)
+Butcher’s Tool (Medium Weapon with the *unholy* tag)
+Rocks and a Sling (Light Ranged)
+Bloodied Suit and Coat (worn, 0 weight)
+You don’t want to know (1x Rough Rations)
+***Book of Insidious Murmurings*** (2 uses, dangerous, 1 weight)
+When you **read from the book of insidious murmurings**, spend one use from the book and roll+Resolve. On a 7+, you inflict humanity harm upon someone you choose who hears your words. On a 7-9, the words harm someone you didn’t intend or the knowledge you shared gave something dangerous a new idea.
+
+*Starting Moves*
+***Strange Appetites***
+You ignore the *horrible* tag on rations you eat.
+***Secrets of Viscera and Gore***
+You may scry and discover knowledge or see the future with an animal or beast’s innards. When you **scry with a creature’s innards that you have never scryed before**, ask the GM anything and add one use to your book.
+---31
+**Herbalist of Ieso**
+You spent most of your life training as a herbalist deep in the rainforests of Ieso, your teacher was a herbalist master and taught you of herbs and their uses all over the world. Your apprenticeship unfortunately never finished for your master died as the world began to tear apart. They taught you a lot though and they always said you can never finish learning. You just hope that lesson still applies in the world that remains.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength -1, Sharp +2, Presence +0, Resolve +1
+
+*Possessions*
+Gardening Tools (Improvised Weapon)
+Poisoned Darts (Light Ranged with the *non-lethal* tag)
+Grubby Overalls (worn, 0 weight)
+Emerald Thorns of Hypnos (3x Green Poison)
+Pouch of Edible Herbs (2x Basic Rations)
+3x Poultices and Herbs
+
+*Starting Moves*
+***Trained Medic***
+When you **heal an ally**, you heal +1d8 damage.
+***Revolutionary Herbalist***
+Whenever you **have time to gather materials and a safe place to prepare them** you can either make *Poultices and Herbs* or you can experiment and roll+Sharp. On a 7+, you discuss with the GM what strange herbal concoction you came up with that can only be made from the herbs in this area. On a 7-9, there is some strange drawback to the concoction that you may not have realised.
+---32
+**Warlock with Skin of Glyph and Scroll**
+You were just a regular shepherd from the Mountains of Eupheme, save for the fact that you have heard a scratching in your ears since you were a child, and as the world began to fall apart the scratching gave way to voices. Now the dark and apocalyptic forces that be whisper to you, their chattering never gives you peace but it does give you knowledge. You have the contents of an unclean scroll carved into your skin.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength -1, Sharp +0, Presence +2, Resolve +1
+
+*Possessions*
+One random Unclean Scroll carved into your skin.
+Carving Tool (d4 damage, touch, magical, unholy, 0 weight)
+Sack of Glyphed Rocks (3x Bomb with the *Magical* tag)
+Bushy Skirt (worn, 0 weight) to allow your upper body freedom to be read easily.
+Weird Edible Stones (2x Basic Rations)
+Knucklebone Dice
+
+*Starting Moves*
+***Arcane Ward***
+As long as you have at least one power prepared that has not been forgotten, you have +1 armor.
+***Warlock’s Scribe***
+When you **have a scroll and the time and safety to work**, you may carve the esoteric glyphs of a scroll into your flesh and no longer need the scroll itself to commune. The copy on your flesh has the *unholy* tag now and doesn’t have the *holy* tag.
+---33
+**Piper of Lyssa**
+You grew up an orphan deep in the undercity of the ever busy Lyssa. You unknowingly holed up in the ancient temple to the piper god, they took pity on you and bestowed upon you the gift to commune with their kind. You have a bond with rats now, you can speak with rats and when you play music, one of them will always show up to see how you’re getting on, many of them even treat you like one of their own children.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength +0, Sharp +1, Presence +2, Resolve -1
+
+*Possessions*
+Finely Crafted Pipes (instrument, 1 weight), made for you by a friend (probably a rat).
+Silver Longknife (Light Weapon with the *holy* tag)
+Sling and Stones (Light Ranged)
+Pouch of Olive Green Sabi Beans (2x Green Poison)
+Finely Crafted Clothes (worn, 0 weight)
+Lunch Box of Nuts and Dried Fruits (1x Basic Rations)
+12d4 Silver
+
+*Starting Move*
+***Escape Route***
+When you’re **in too deep and need a way out**, name your escape route and roll+Sharp. On a 10+ you’re gone. On a 7-9, you can stay or go, but if you go it costs you: leave something behind or take something with you, the GM will tell you what.
+---34
+**Conqueror of Crows**
+It doesn’t matter how it started, it's too long gone for that now. You are at permanent war with all corvids, there is no contact without violence of some kind. You are always looking out for their beady eyes and scratching claws, you’ve memorised their raking cries. They taunt you every chance they get, scratching strange nothings into paths they know you’ll travel. The war will be long and bloody, but you’re positive you’ll win.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength -1, Sharp +1, Presence +1, Resolve +1
+
+*Possessions*
+Trusty Bow (Heavy Ranged)
+Quiver of Arrows (2x Heavy Ammo)
+Whacking Stick (Long Weapon)
+Crowfeather Garb (Light Armor)
+Preserved Bird Meat (2x Basic Rations)
+Survival Gear
+5d8 Silver
+
+*Starting Moves*
+***Empty the Sky***
+Whenever you **deal damage to a flying creature**, roll twice for your damage and use the best result.
+***Blot Out the Sun***
+When you **make a Ranged attack**, you may spend extra ammo before rolling. For each point of ammo spent you may choose an extra target. Roll once and apply damage to all targets.
+---35
+**Sacred Lamb of Erebus**
+You were born in a little town near one of the communes of the cult of Erebus, for thousands of years the cult had always believed that one day the world would steer close to collapse and that they would need the sacred child with a mark of an all seeing eye on their right palm to make it alright again. The problem here being that you were born with a strange eye-like marking on your right palm, and sure, it was fun when you were spoiled by them as a kid, but now the apocalypse is here and you really want no part of this cult business. Now they keep trying to follow you around and capture you, and there’s hundreds of them.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength -1, Sharp +1, Presence +1, Resolve +1
+
+*Possessions*
+Sacred Sword of Erebus (Medium Weapon)
+One random Unclean Scroll that the western cultists gave you.
+One random Sacred Scroll that the eastern cultists gave you.
+Worn Shield (Shield)
+Fine Toga (worn, 0 weight)
+Bread and Honey (1x Basic Rations)
+Life Elixir
+3d10\*2 Silver
+
+*Starting Move*
+***Hero of the Story***
+You're really lucky for some reason.
+When you **rest**, reset your Luck to 3.
+When you **roll and miss**, you may lower your Luck by 1 to re-roll. Take the second result, and if it is a hit, explain how you succeeded only through sheer luck.
+---36
+*With A Chorus Of Insects In Their Ears*
+At night you dream of a temple deep underground to a god long forgotten, during your waking hours you hear the songs of insects, spiders and worms.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength +1, Sharp +0, Presence +2, Resolve -1
+
+*Possessions*
+Fine Harp (instrument, 1 weight)
+Battleaxe (Medium Weapon)
+Spider Shield (Shield)
+Tightly Bound Robes (worn, 0 weight)
+Raisin and Macadamia Cookies (2x Basic Rations)
+Poultices and Herbs
+Survival Gear
+d10\*5 Silver
+
+*Starting Moves*
+***They Listen To Every Word***
+When you **enter an important location** (your call) you can ask the GM what the bugs sing about this place.
+***And They Never Shed A Tear***
+When you **gaze intensely into someone's eyes**, you may ask their player “what keeps you going despite all of this?” they’ll answer with the truth, even if the character does not know or would otherwise keep this hidden.
+---41
+**Wanderer of Far Off Places**
+You spent your life wandering far and beyond, collecting things, experiencing much that your people couldn’t even dream of, you changed so much in the time you spent away from home. And now you’re finally back, the apocalypse is no time for meandering far off places, so you’re home, but home has changed a lot while you were gone, you recognise so little of it. Was there really any point in coming back to a world you don’t recognise?
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength +0, Sharp +0, Presence +2, Resolve +0
+
+*Possessions*
+Old Harmonica (instrument, 1 weight)
+Fine Scimitar (Medium Weapon)
+Strong Buckler (Shield)
+One random Sacred Scroll
+Thick and Long Hooded Coat (Light Armor)
+Vial of Midnight Blade Spice (2x Black Poison)
+Thalia Bread (2x Fine Rations)
+2x Poultices and Herbs
+Survival Gear
+3d100 Gold Pieces
+
+*Starting Move*
+***To The Ends of The Earth***
+When you **Recollect on a subject no one else knows anything about**, take +1.
+---42
+**Wizard of the Academy of Mousika**
+You were famous before all this shit, you were one of the most powerful wizards at the academy, and they gave you an esteemed position for it too. Then all this bloody apocalypse shit happened, and the academy fell apart, and now you're nobody, no one even stops you in the street anymore. But hell to it all anyway, what was the point of all that studying if you can't handle a measly apocalypse, maybe if that was out of the way you could go back to being pampered and adored by all those new students again.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength  -1, Sharp +2, Presence +1, Resolve +0
+
+*Possessions*
+Bonking Stick (Long Weapon)
+Missiles of Arcane Imperfection and one other random Unclean Scroll.
+Flashy Robe (worn, 0 weight)
+Bomb Belt with 2x Black Bombs (bomb) and 2x Smoke Bombs (smokey, thrown, 1 weight)
+Peppered Snail and Dark Wine (1x Basic Rations)
+8d8 Silver
+
+*Starting Move*
+***Eye for Magic***
+When you **see the effects of a spell**, ask the GM the name of the spell and its effects. You take +1 when acting on the answers.
+---43
+**Tempest Chaser**
+You remember your first apocalypse, it was a blast, demons and hell fire everywhere, but that was just the next town over from you. Ever since you’ve found and reveled in every apocalypse you could find, skipping between dimensions and continents alike. But this is it, the big one, the apocalypse to end all apocalypses, and well, everything else really. But as always, you have to enjoy it while it lasts.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength +2, Sharp +0, Presence +1, Resolve -1
+
+*Possessions*
+Giant Tooth-Club (Heavy Weapon)
+Two random Unclean Scrolls.
+Demonic Cloak (Heavy Armor with the *unholy* tag)
+Hellfire Molotov (bomb with the *unholy* and *fire* tags)
+Seared Demon Meat (2x Basic Rations)
+Knucklebone Dice
+2d100 Silver
+
+*Starting Moves*
+***Armored***
+You ignore the *clumsy* tag on armor you wear.
+***Aegis of the Apocalypse***
+When you take damage you can open yourself up to the apocalypse and take on its infection instead. If you do you take no damage but instead suffer an infection of your choice. If you already have all four infections you can’t use this move.
+---44
+**Dreaming Oracle of the Oneiroi**
+You were an oracle of the Mountain of Oneiroi, it called to you in your sleep and gave you dreams of the future. It calls to you even now that nothing is left of it but a pile of rubble, it calls you to some far off place you can’t seem to find.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength -1, Sharp +0, Presence +2, Resolve +1
+
+*Possessions*
+Sharp Iron Barb (Medium Weapon)
+Two random Sacred Scrolls.
+Clean White Garb (worn, 0 weight)
+Mushrooms and Dried Roots (2x Basic Rations)
+Knucklebone Dice
+Survival Gear
+7d12 Silver
+
+*Starting Move*
+***Oneiromantic Visions***
+When you rest and dream the strands of possible futures, roll+Presence. On a 10+, hold 2. On a 7-9, hold 1. Until the next time you rest, you can spend 1 hold to ask the GM what is about to happen. Take +1 ongoing when acting on the information.
+---45
+**Old Bard of Melino**
+You are a bard from Melino, you communed with the ancestors of your people, and told stories of them to their descendents. You kept the great library of Melino stocked with your traveling songs and stories, but when the apocalypse came the voices of the ancestors stopped, sure your people had more pressing things to worry about but you truly believe your ancestors can help even in the end times, so you attempt to find their spirits wherever you can.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength +0, Sharp +1, Presence +1, Resolve +0
+
+*Possessions*
+Grandfather’s Lute (instrument, 1 weight)
+Fine Rapier (Medium Weapon)
+One random Sacred Scroll.
+Decorative Adventuring Gear (worn, 0 weight)
+Cured Sausages, Munster Cheese and Herbal Bread (2x Fine Rations)
+Silver Crucifix
+Survival Gear
+12d6 Silver
+
+*Starting Move*
+***Charming and Open***
+When you **speak frankly with someone**, you can ask their player a question from the list below. They must answer it truthfully, then they may ask you a question from the list (which you must answer truthfully):
+• How can I get you to ___?
+• What are you feeling right now?
+• What do you most desire?
+• What do you wish I’d do?
+• Whom do you serve?
+---46
+**Devoted Champion of God**
+You are one of the last left of your religion, and it's the apocalypse. The time that your religion warned you about, but you're still here. You know that everyone who doesn’t believe in your god and hasn’t repented for their sins won't be reborn in the next world and will instead be banished into nothing. You have to save as many as you can in what little time you have left.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength +0, Sharp -1, Presence +1, Resolve +2
+
+*Possessions*
+Mask of Our Lord (0 weight)
+Sturdy Mace (Medium Weapon)
+Shield of Order (Shield)
+Two different random Sacred Scrolls.
+Holy Robes (worn, 0 weight)
+Smoked Ham and Mixed Vegetables (1x Fine Rations)
+Life Elixir
+Silver Crucifix
+2d6 Silver
+
+*Starting Move*
+***I Am The Law***
+When you **give an NPC an order based on your divine authority**, roll+Presence. On a 7+, they choose one:
+• Do what you say.
+• Back away cautiously, then flee.
+• Attack you.
+On a 10+, you also take +1 forward against them. On a miss, they do as they please and you take -1 forward against them.
+---51
+**The Beast that Wears the Clothes of Men**
+You look like any other human, you speak like them, you walk, work and laugh like them. But somewhere along your bloodline wickedness was introduced. It’s influence is thin within your blood but ever present. You can’t help the feeling that these humans should be your prey, they just feel so fragile and weak.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength +2, Sharp +2, Presence -1, Resolve -1
+
+*Possessions*
+A Pair of Meat Hooks Chained Together (2x Light Weapons)
+Your claws have d8 damage when used together.
+An Old Hunting Bow with a Small Quiver of Arrows (Heavy Ranged and a Heavy Ammo), belonged to your mother.
+Bloodied Overalls (worn, 0 weight)
+Strange Dried Meats (2x Basic Rations)
+7d4 Silver
+
+*Starting Moves*
+***Thick Hide***
+You never understood armor, it just felt like it weighed you down. When you wear **no armor** or shield you get 2 armor.
+***Predatory Sense***
+You have a keen sense of smell when it comes to humans and other prey. You can sniff individuals out from a room away, identify someone, and even track them.
+When you **follow a scent left behind by passing humans or prey animals**, roll+Sharp. On a 7+, you follow the creature’s trail until there’s a significant change in its direction or mode of travel. On a 10+, you also gain a useful bit of information about your quarry.
+---52
+**Traveling Goblin Trader**
+The goblins arrived shortly after the apocalypse, whatever sigil that sealed them away from the world broke when everything else did. And they did what goblins do, they caused mischief, they caused mayhem, and above all else they caused chaos. But not you, you saw a business opportunity, you saw an opportunity to invest, who said the end of the world meant the end of everything anyway.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength +1, Sharp +1, Presence +1, Resolve -1
+Add three to your carry weight during character creation.
+
+*Possessions*
+Unfolding Dimensional Trade Booth (magical, 1 weight)
+Oversized Chaos Hammer (Heavy Weapon with the *unholy* tag)
+Molotov Cocktail (Bomb with the *fire* tag)
+A Goblin Approximation of Finery (worn, 0 weight)
+Sack of Literal Rocks (ration, 7 uses, goblin-only, 2 weight)
+Knucklebone Dice
+***Impossibly Large Bag of Trinkets and Curios*** (5 uses, magical, 3 weight)
+When you **search the bag for an item for a potential customer**, spend a use and roll+Sharp. You always find the perfect thing. On a 10+, you close the bag with little effort. On a 7-9, something unsettling, but not necessarily dangerous, comes out of the bag with you. On a miss, something angry, scary and very hungry is unleashed from the bag.
+
+*Starting Moves*
+***Will Eat Rocks!***
+You ignore the *horrible* tag on rations you eat.
+***Trader of Trinkets***
+You can always demand trinkets and curios as payment for services rendered.
+When you **feed a satisfying portion of treasures or trinkets** (as decided in a case by case fashion by the GM) **to the bag**, the bag gains three uses.
+---53
+**Raised in the Care of Beast and Tree**
+You are a lost child of the fae with large moth-like wings, when you were very young your parents were sigiled away by selfish men. And so you were raised by bears deep in the forest, they had so much they always wished they could say to you, and you had so much you wished you could say to them.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength +0, Sharp +1, Presence +1, Resolve +0
+
+*Possessions*
+Thorn Sword (Medium Weapon with the *1 weight* tag)
+Bark Shield (Shield with the *1 weight* tag)
+Handsewn Brown Dress (worn, 0 weight)
+Begone Crude and Lesser Magics
+Vial of Moonglove Blood (3x Black Poison)
+Pouch of Dried Mint and Rosemary (2x Basic Rations)
+Poultices and Herbs
+Knucklebone Dice
+
+*Starting Move*
+***The Blood of a Fae, The Claw of a Bear***
+Whenever you **deal damage to a human**, you roll twice and take the better result for any damage.
+---54
+**One of the Old Gods**
+You're a god, a real deity, not one of those gods of faith either. You are a spirit of a forest, or a river, or a mountain, you didn’t need a bunch of assholes in flowy robes to worship you. You had real power, *had* being the key term there unfortunately, when the apocalypse came it kinda dried up your river, burned your forest, or toppled your mountain, or whatever it did. But you’re still pretty damn strong, and you wanna have a word with this apocalypse or whatever entity embodies it, they kinda fucked up your whole thing.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength +2, Sharp -1, Presence +0, Resolve +1
+
+*Possessions*
+Embodied Weapon (Heavy Weapon with the *+2 damage* tag), you may be without your home, but you have a sliver of it with you and it hits stuff pretty good.
+Carved Pentagram (holy, off-handable, 1 weight)
+Nice Dress (worn, 0 weight), one of your few worshipers made it for you, and it looks pretty nice.
+Fertile Mud (2x Rough Rations)
+3x Poultices and Herbs
+
+*Starting Moves*
+***Uncaring God***
+You ignore the *horrible* tag on rations you eat.
+***Healthy Distrust***
+Whenever the **unclean magic wielded by mortal men causes you to Endure or Evade**, treat any result of 6- as a 7-9.
+---55
+**Born of Arcane and Aether**
+You were born of magic, a being constructed entirely of it, you know so much, and so little at the same time. You know the day you're destined to die and yet you know nothing of what waits for you before then. So your internal timer is set and now all you have to do is set off to find out who will join you in the time you have left.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength +0, Sharp +2, Presence +1, Resolve -1
+
+*Possessions*
+2x Forked Knives (Light Weapons)
+Two different random Unclean Scrolls.
+Loose Flowy Trousers (worn, 0 weight)
+Rosemary and Potato Chips (2x Rough Rations)
+Survival Gear
+
+*Starting Move*
+***Arcane Dissolution***
+When you **attempt to counter a spell that would otherwise affect you**, stake one of your prepared scrolls on the defense and roll+Sharp. On a 10+, the spell is countered and has no effect on you. On a 7-9, the spell is countered and you forget the scroll that you staked.
+---56
+**Artifice of the Fae**
+Not too long ago, you found out you were never real. You are a sculpture of bark and mud that some cruel fae enchanted to look human, so you could wander the world of men. Your eyes are crystal spheres so that the fae could look through and marvel at all the mundanes of human life. When the apocalypse came the magic that enchanted your mind was washed away, now you know that you were just a tool for some uncaring fae. What are you now that their influence is gone?
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength +0, Sharp +0, Presence +0, Resolve +2
+
+*Possessions*
+Two Crystal Eyes (0 weight), you can see through them even if they’re not in your face.
+Large Staff (Long Weapon)
+Common Clothing (worn, 0 weight)
+Poultices and Herbs
+Survival Gear
+4d4 Silver
+
+*Starting Moves*
+***By Nature Sustained***
+You don’t need to eat or drink. If a move tells you to mark off a ration just ignore it.
+***Barkskin***
+So long as your feet touch the ground, you have +1 armor.
+---61
+**The Deathspeaker of Pallas**
+You were brought before many armies for your kingdom, because you spoke words and death spewed out. You killed with just words and a scroll. Your name brought terror to thousands, you donned the armor again and again, and killed so many. But now the apocalypse is here and your kingdom is just a flock of people trying to survive. There are no armies now, no masses left to slaughter, and you’re not sure what to do with yourself.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength -1, Sharp +2, Presence +2, Resolve -1
+
+*Possessions*
+Ritual Dagger (d8 damage, hand, off-handable, 1 weight)
+Armor of the Deathspeaker (Heavy Armor)
+Cloud of Death’s Unholy Breath and one other random Unclean Scroll.
+Seared Mushrooms and Duck Eggs (2x Basic Rations)
+Life Elixir
+20d4 Silver
+
+*Starting Moves*
+***Armored***
+You ignore the *clumsy* tag on armor you wear.
+***Empowered Magic***
+When you **invoke the power of a scroll with Words of Power**, on a 10+ you have the option of choosing from the 7-9 list. If you do, you may additionally choose one of the following effects:
+• The spell’s effects are maximized
+• The spell’s targets are doubled
+---62
+**Champion of the End**
+You were a part of an exclusive cult, of only a few people, you all couldn’t wait for the apocalypse to come, you each promised you would all make sure it happened and no hero would come along and stop it. But then the apocalypse actually came and the rest of the gang died in all sorts of tragic ways. It's just you left now to make sure this apocalypse actually manages to end it all, though you’re not even sure it needs your help.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength +2, Sharp -1, Presence +2, Resolve -1
+
+*Possessions*
+Heavy Glaive (d8 damage, +1 damage, reach, two-handed, 2 weight)
+Repeating Crossbow and Some Bolts (Heavy Ranged)
+One random Unclean Scroll.
+Clay Armor (Light Armor)
+Mixed Wild Nuts and Cheese (2x Basic Rations)
+Survival Gear
+6d4 Silver
+
+*Starting Moves*
+***Harbinger of Misery***
+As long as you live the GM rolls *two* misery dice.
+When you **melee**, on a 12+, you deal your damage, avoid their attack, and dismay or terrify your enemy.
+---63
+**Fellowship of the Rose Quartz**
+You were a part of the order of the rose quartz, an esteemed order of powerful healers. But you were controversial within the order as a combat medic, you would use your medical knowledge to keep soldiers alive in combat. Healing them mere moments after they were injured, dodging incoming fire yourself to keep yourself right in the fray of combat. Turns out your expertise was vital in keeping people, and yourself, alive in an apocalypse.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength +0, Sharp +1, Presence +1, Resolve +0
+
+*Possessions*
+Rose Quartz Necklace (worn, 0 weight)
+Blessed and Salted Spear (d8 damage, reach, two-handed, holy, 1 weight)
+Grace of a Long Dead Angel
+Clergy Armor (Light Armor)
+Dried Mushrooms and Dried Vegetables (2x Basic Rations)
+2x Bandages
+Antitoxin
+d4 Silver
+
+*Starting Move*
+***Invigorate***
+When you **heal someone** they take +2 forward to their damage.
+---64
+**Gourmand of the Apocalypse**
+You were a great cook, a fantastic one even, you made it your life’s work to cook with the weirdest and most unusual things, you even wrote a couple cookbooks. Then the apocalypse came, and with it came some of the most unusual fauna and flora you’d ever seen. Some exotic meats and vegetables you thought lost to time even began pouring forth from the yawning portals and demonic pits.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength +2, Sharp -1, Presence +1, Resolve +0
+
+*Possessions*
+The Cookbook of the Apocalypse (0 weight) *by ___.*
+Assorted Cooking Utensils (2 weight)
+Monstrous Ingredients (1 stock, 2 weight), when you dice up a kill or spend some time foraging for strange ingredients, increase your stock by 1.
+Assassin Blade (Medium Weapon with the *1 weight* tag)
+Hunter’s Bow (Heavy Weapon with the *1 weight* tag)
+Hunter’s Quiver (4 ammo, 1 weight)
+Demonic Jerky with Ground Hellweed (1x Fine Rations)
+3d6\*10 Silver
+
+*Starting Moves*
+***Iron Stomach***
+You ignore the *horrible* tag on rations you eat.
+***Godless Experimentation***
+When you **use what you have on hand to cook something new and interesting**, expend 2 stock from your monstrous ingredients and roll+Presence. On a 10+, it’s wonderful, groundbreaking even, you’ve truly made something wonderful. You are all fed for tonight and you also get one *Fine Rations*. On a 7+, it’s good, you’d eat it again for sure, but it’s not amazing and you can’t help but feel like it’s missing something even if others love it. You are all fed for tonight and you also get one *Basic Rations*. On a miss, in addition to whatever the GM says, it’s horrible, no one else will eat it, you still want a little time with it tho. You are fed for tonight and get one *Mistake (4 uses, rations, horrible, 1 weight)*.
+---65
+**Professional People Watcher**
+You weren’t anyone important. You grew up in a busy enough city that you could escape most people's notice. You didn’t have many friends, so you spent your days scoping people out, following their habits as they went about their lives. Eventually you made it your trade to know where people were and what they were doing, you’d sell the information or use it to steal things here and there to sell or keep. You weren’t too proud of it, but you were definitely good at it.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength +0, Sharp +2, Presence +0, Resolve +0
+
+*Possessions*
+Decorative Sword (Light Weapon)
+Cutting Edge Flintlock (d8 damage, near, 1 weight)
+2x Gunpowder Ammo (3 ammo, 12 silver, 1 weight)
+Long Armored Coat (Light Armor)
+Powdered Virid Lily Petals (3x Green Poison)
+Smoked Sausages, Roots and Scroggin (2x Fine Rations)
+Survival Gear
+20d10 Silver
+
+*Starting Move*
+***Detached Observer***
+When you **discreetly Investigate a foe**, they do not notice you. On a 7+, you may also ask the following questions:
+• Where are they going?
+• What are they paying attention to?
+---66
+**The Canvas**
+You awoke one day, a fully grown adult. Nothing around you but a ritual circle. You have no idea who or what you are.
+
+*Ability Scores*
+(Add +1 to one of these)
+Strength +2, Sharp +0, Presence +1, Resolve -1
+
+*Possessions*
+Strange Gold Necklace With a Red Gem (worn, 0 weight), perhaps now the only clue to your past.
+Old Sword (Medium Weapon)
+Hunting Bow (Heavy Ranged)
+Quiver of Arrows (Heavy Ammo)
+Spare Farm Clothes (worn, 0 weight)
+Smoked Fish and Goats Cheese (2x Basic Rations)
+3d4 Silver
+
+*Starting Move*
+***These New Friends Of Mine***
+When you **help out a friend**, roll+Presence. On a 7+, they take +1. On a 10+, you take +1 forward as well.
