@@ -158,7 +158,7 @@ let backgroundTextCommand = function(sheet, message) {
         printTextCommand(resultPath, message, "bdbackgrounds.txt");
     } 
   
-    if (sheet === "troika") {
+    else if (sheet === "troika") {
         let dieOne = getRandomInt(1, 6);
         let dieTwo = getRandomInt(1, 6);
     
