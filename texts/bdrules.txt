@@ -6,13 +6,23 @@ When you take aim and **attack an enemy at range**, roll+Presence. On a 10+, you
 • You have to take what you can get, roll damage twice and take the lower result.
 • You have to take several shots, reducing your ammo by one.
 ---evade
-When you **act quickly despite an immediate attack or danger**, roll+Agility. On a 10+, you do it. On a 7-9, in the doing of it there will be a cost, complication, or choice introduced by the GM.
+When you **act quickly despite an immediate attack or danger**, roll+Sharp. On a 10+, you do it. On a 7-9, in the doing of it there will be a cost, complication, or choice introduced by the GM.
 ---endure
-When you **endure a hardship that might kill a weaker soul**, roll+Toughness. On a 10+, you endure but choose three. On a 7-9, choose two.
+When you **endure a hardship that might kill a weaker soul**, roll+Resolve. On a 10+, you endure but choose three. On a 7-9, choose two.
 • You take little or no harm.
 • You don’t lose track of something important.
 • You need little time to recover.
 • Nothing feels your suffering and reacts to it.
+---investigate
+When you **closely study a situation or person**, roll+Sharp. On a 10+, ask the GM three questions from the list below. On a 7-9, ask only one. Take +1 forward when acting on the answers.
+• What happened here recently?
+• What is about to happen?
+• What should I be on the lookout for?
+• What here is useful or valuable to me?
+• Who’s really in control here?
+• What here is not what it appears to be?
+---recollect
+When you **recall past experiences about something**, roll+Resolve. On a 10+, the GM will tell you something relevant and useful about the subject at hand. On a 7-9, the GM will reveal an unwelcome truth about the subject at hand.
 ---words of power
 When you **invoke the power of a scroll you have communed with**, roll+Presence. On a 10+, you successfully unleash the scrolls power without consequence. On a 7-9, this scrolls power is unleashed but choose one:
 • You draw unwelcome attention or put yourself in a spot. The GM will tell you how.
@@ -25,7 +35,7 @@ When you **take *humanity harm***, mark one humanity and choose one:
 • Must answer any question posed to you.
 • Take disadvantage forward.
 ---defy death
-When you’re dying and you catch a glimpse of what lies beyond this miserable life, mark one humanity and roll+Toughness. On a 10+, you’ve cheated death, you’re in a bad spot but you’re still alive. On a 7-9, a sacrifice is needed. Make a considerable enough sacrifice and stabilize or refuse and pass beyond into whatever fate awaits you. On a miss, your fate is sealed. You’re marked as Death’s own and you’ll cross the threshold soon. The GM will tell you when.
+When you’re dying and you catch a glimpse of what lies beyond this miserable life, mark one humanity and roll+Resolve. On a 10+, you’ve cheated death, you’re in a bad spot but you’re still alive. On a 7-9, a sacrifice is needed. Make a considerable enough sacrifice and stabilize or refuse and pass beyond into whatever fate awaits you. On a miss, your fate is sealed. You’re marked as Death’s own and you’ll cross the threshold soon. The GM will tell you when.
 ---evolve
 When you have five humanity, you may subtract five at any time and come up with a move with your GM that you think would be appropriate for the strife your character has been through.
 ---rest
@@ -34,3 +44,228 @@ When you **settle in to rest and consume a ration**, as long as long as you get 
 When you spend uninterrupted time (an hour or so) in **quiet contemplation** with your scrolls, you are granted the ability to invoke the power of these scrolls.
 ---encumbrance
 When you **make a move while carrying weight up to or equal to Load**, you’re fine. When you make a move while carrying weight equal to load+1 or load+2, you take -1. When you make a move while carrying weight greater than load+2, you have a choice: drop at least 1 weight and roll at -1, or automatically fail.
+---unclean scrolls
+1. **Missiles of Arcane Imperfection** - Projectiles of pure magic spring from your fingers. Deal 2d4 damage to one target.
+2. **Begone Crude and Lesser Magics** - A spell or magic effect in your presence is torn apart. Lesser spells are ended, powerful magic is just reduced or dampened so long as you are nearby.
+3. **You Are All Beneath Me Now** - You are capable of levitating and floating through the air at your own discretion. Keep in mind some actions may be more difficult while floating.
+4. **Murmured Truths of the Universe** - You inflict humanity harm upon everyone around you.
+5. **Cunning Tongue Of Mephistopheles** - Confuse and charm someone you touch until they take damage or you prove otherwise.
+6. **Unknot the Sun In a Brilliant Blaze** - Unleash a ball of fire inflicting 2d6 damage on its target.
+7. **Foul Magics Bring You Back From Beyond** - Invoke a hungry spirit to animate a dead body to fight for or protect you.
+8. **Metzhuotl Blind Your Eye** - someone you touch becomes invisible for as long as you concentrate or they make an attack.
+9. **Eyelid Blinds the Mind** - 1d4 creatures fall asleep for up to an hour.
+10. **Cloud of Death’s Unholy Breath** - A cloud of fog drifts into this realm from beyond, filling the immediate area. Whenever a creature in the area takes damage it takes an additional, separate 1d6 damage which ignores armor.
+---sacred scrolls
+1. **Bestow the Prowess of Alexaniir Himself** - A combatant of your choice takes +1 ongoing so long as battle continues and they stand and fight.
+2. **Grace of a Long Dead Angel** - At your touch, heal an ally you touch of 2d8 damage.
+3. **Bless My Blade To Strike Good and True** - The weapon you hold while invoking this scroll does +1d4 damage until you dismiss it.
+4. **Creatures Earth, Sky and Sea, Commune With Me** - You may speak with beasts.
+5. **Bring the False Dawn / Ceaseless Night** - Summon blinding light or supernatural darkness.
+6. **Clear Minded, Eyes Unblinded** - Your vision is opened to the true nature of everything you lay your eyes on. You pierce illusions and see things that have been hidden. The GM will describe areas before you ignoring any illusions and falsehoods, magical or otherwise.
+7. **Consume the Life Which Should Be Not** - The mindless undead creature you touch is destroyed and you steal its death energy to heal yourself or the next ally you touch. The amount of damage healed is equal to the HP that the creature had remaining before you destroyed it.
+8. **Whispers Pass the Grand Gates** - Name the spirit you wish to contact (or leave it to the GM). You pull that creature through the planes, just close enough to speak to you. It is bound to answer any one question you ask to the best of its ability.
+9. **Unmet is that Fate** - One creature, dead for no more than a week, is awakened with terrible memories.
+10. **The Divine Law Is In My Voice** - One creature obeys a single command.
+---reliable
+Once per battle you may reroll a single damage roll (yours or someone else’s).
+
+ *- Warrior of the Hysminai Marshes*
+---first to strike
+When you **make the first strike in battle**, you may deal your damage and ignore all obstacles or dangers.
+
+ *- Glory Seeker*
+---bloodied knuckles
+Your unarmed attacks deal the best of 2d6 damage and ignore armor.
+
+ *- Back Alley Brawler*
+---guidance
+When you **pray for guidance, even for a moment and ask “what here is evil?”**, the GM will tell you, honestly, based on the perceptions of your god or religion.
+
+ *- Heritor of an Ancient Quest*
+---foraging
+When you **spend a few hours seeking food in the wilds**, and your surroundings are not barren, roll+Resolve. On a 7+, you gain 1d4 rations, +1d4 rations if you use some trapping gear. On a 7-9, you face a danger of the GM’s choice while foraging.
+
+ *- Deserter of the Last Watch*
+ ---blackened blade of eleos
+When you **have access to a significant holy site and burn a scroll of power to be absorbed by your greatsword**, roll+Resolve. On a 7+, the black metal of Eleos absorbs the scroll’s power and your sword is made more powerful somehow. On a 7-9, something dangerous and angry is unleashed from the scroll in the process.
+
+ *- Black Knight of Eleos*
+---royal past
+When you **Recollect concerning matters of royalty, nobility and treasures**, you may Recollect using Presence instead of Resolve.
+
+ *- Monarch of Rubble and Ashes*
+---disaster befall
+When you **spend a few days in one area without moving on**, the disaster catches up with you.
+
+ *- Monarch of Rubble and Ashes*
+---suffering recalled
+When you **Recollect concerning matters of great suffering**, take +1.
+
+ *- Scryer to the Old Court of Mages*
+---dead memories
+When you **encounter a place of great suffering**, you may relive the tragedy through the memory that lingers.
+
+ *- Scryer to the Old Court of Mages*
+---strange thirst
+Fresh blood heals you for 1d6 hp. You may still eat regular food, but only blood will heal you.
+
+ *- Hungry, Thirsty, Leech*
+---shoot first
+You’re never caught by surprise. When an enemy would get the drop on you, you get to act first instead.
+
+ *- Survivor of the Keres Massacre*
+---book of insidious murmurings
+*(2 uses, dangerous, 1 weight)*
+When you **read from the book of insidious murmurings**, spend one use from the book and roll+Resolve. On a 7+, you inflict humanity harm upon someone you choose who hears your words. On a 7-9, the words harm someone you didn’t intend or the knowledge you shared gave something dangerous a new idea.
+
+ *- Beastly Scholar*
+---secrets of viscera and gore
+You may scry and discover knowledge or see the future with an animal or beast’s innards. When you **scry with a creature’s innards that you have never scryed before**, ask the GM anything and add one use to your book.
+
+ *- Beastly Scholar*
+---trained medic
+When you **heal an ally**, you heal +1d8 damage.
+
+ *- Herbalist of Ieso*
+---revolutionary herbalist
+Whenever you **have time to gather materials and a safe place to prepare them** you can either make *Poultices and Herbs* or you can experiment and roll+Sharp. On a 7+, you discuss with the GM what strange herbal concoction you came up with that can only be made from the herbs in this area. On a 7-9, there is some strange drawback to the concoction that you may not have realised.
+
+ *- Herbalist of Ieso*
+---arcane ward
+As long as you have at least one power prepared that has not been forgotten, you have +1 armor.
+
+ *- Warlock with Skin of Glyph and Scroll*
+---warlocks scribe
+When you **have a scroll and the time and safety to work**, you may carve the esoteric glyphs of a scroll into your flesh and no longer need the scroll itself to commune. The copy on your flesh has the unholy tag now and doesn’t have the holy tag.
+
+ *- Warlock with Skin of Glyph and Scroll*
+---escape route
+When you’re **in too deep and need a way out**, name your escape route and roll+Sharp. On a 10+ you’re gone. On a 7-9, you can stay or go, but if you go it costs you: leave something behind or take something with you, the GM will tell you what.
+
+ *- Piper of Lyssa*
+---empty the sky
+Whenever you **deal damage to a flying creature**, roll twice for your damage and use the best result.
+
+ *- Conqueror of Crows*
+---blot out the sun
+When you **make a Ranged attack**, you may spend extra ammo before rolling. For each point of ammo spent you may choose an extra target. Roll once and apply damage to all targets.
+
+ *- Conqueror of Crows*
+---hero of the story
+You're really lucky for some reason.
+When you **rest**, reset your Luck to 3.
+When you **roll and miss**, you may lower your Luck by 1 to re-roll. Take the second result, and if it is a hit, explain how you succeeded only through sheer luck.
+
+ *- Sacred Lamb of Erebus*
+---they listen to every word
+When you **enter an important location** (your call) you can ask the GM what the bugs sing about this place.
+
+ *- With A Chorus Of Insects In Their Ears*
+---and they never shed a tear
+When you **gaze intensely into someone's eyes**, you may ask their player “what keeps you going despite all of this?” they’ll answer with the truth, even if the character does not know or would otherwise keep this hidden.
+
+ *- With A Chorus Of Insects In Their Ears*
+---to the ends of the earth
+When you **Recollect on a subject no one else knows anything about**, take +1.
+
+ *- Wanderer of Far Off Places*
+---eye for magic
+When you **see the effects of a spell**, ask the GM the name of the spell and its effects. You take +1 when acting on the answers.
+
+ *- Wizard of the Academy of Mousika*
+---aegis of the apocalypse
+When you **take damage you can open yourself up to the apocalypse** and take on its infection instead. If you do you take no damage but instead suffer an infection of your choice. If you already have all four infections you can’t use this move.
+
+ *- Tempest Chaser*
+---oneiromantic visions
+When you **rest and dream the strands of possible futures**, roll+Presence. On a 10+, hold 2. On a 7-9, hold 1. Until the next time you rest, you can spend 1 hold to ask the GM what is about to happen. Take +1 ongoing when acting on the information.
+
+ *- Dreaming Oracle of the Oneiroi*
+---charming and open
+When you **speak frankly with someone**, you can ask their player a question from the list below. They must answer it truthfully, then they may ask you a question from the list (which you must answer truthfully):
+• How can I get you to ___?
+• What are you feeling right now?
+• What do you most desire?
+• What do you wish I’d do?
+• Whom do you serve?
+
+ *- Old Bard of Melino*
+---i am the law
+When you **give an NPC an order based on your divine authority**, roll+Presence. On a 7+, they choose one:
+• Do what you say.
+• Back away cautiously, then flee.
+• Attack you.
+On a 10+, you also take +1 forward against them. On a miss, they do as they please and you take -1 forward against them.
+
+ *- Devoted Champion of God*
+---thick hide
+You never understood armor, it just felt like it weighed you down. When you wear **no armor** or shield you get 2 armor.
+
+ *- The Beast that Wears the Clothes of Men*
+---predatory sense
+You have a keen sense of smell when it comes to humans and other prey. You can sniff individuals out from a room away, identify someone, and even track them.
+When you **follow a scent left behind by passing humans or prey animals**, roll+Sharp. On a 7+, you follow the creature’s trail until there’s a significant change in its direction or mode of travel. On a 10+, you also gain a useful bit of information about your quarry.
+
+ *- The Beast that Wears the Clothes of Men*
+---impossibly large bag of trinkets and curios
+*(5 uses, magical, 3 weight)*
+When you **search the bag for an item for a potential customer**, spend a use and roll+Sharp. You always find the perfect thing. On a 10+, you close the bag with little effort. On a 7-9, something unsettling, but not necessarily dangerous, comes out of the bag with you. On a miss, something angry, scary and very hungry is unleashed from the bag.
+
+ *- Traveling Goblin Trader*
+---trader of trinkets
+You can always demand trinkets and curios as payment for services rendered.
+When you **feed a satisfying portion of treasures or trinkets** (as decided in a case by case fashion by the GM) **to the bag**, the bag gains three uses.
+
+ *- Traveling Goblin Trader*
+---the blood of a fae, the claw of a bear
+Whenever you **deal damage to a human**, you roll twice and take the better result for any damage.
+
+ *- Raised in the Care of Beast and Tree*
+---healthy distrust
+Whenever the **unclean magic wielded by mortal men causes you to Endure or Evade**, treat any result of 6- as a 7-9.
+
+ *- One of the Old Gods*
+---arcane dissolution
+When you **attempt to counter a spell that would otherwise affect you**, stake one of your prepared scrolls on the defense and roll+Sharp. On a 10+, the spell is countered and has no effect on you. On a 7-9, the spell is countered and you forget the scroll that you staked.
+
+ *- Born of Arcane and Aether*
+---by nature sustained
+You don’t need to eat or drink. If a move tells you to mark off a ration just ignore it.
+
+ *- Artifice of the Fae*
+---barkskin
+So long as your feet touch the ground, you have +1 armor.
+
+ *- Artifice of the Fae*
+---empowered magic
+When you **invoke the power of a scroll with Words of Power**, on a 10+ you have the option of choosing from the 7-9 list. If you do, you may additionally choose one of the following effects:
+• The spell’s effects are maximized
+• The spell’s targets are doubled
+
+ *- The Deathspeaker of Pallas*
+---harbinger of misery
+As long as you live the GM rolls *two* misery dice.
+When you **melee**, on a 12+, you deal your damage, avoid their attack, and dismay or terrify your enemy.
+
+ *- Champion of the End*
+---invigorate
+When you **heal someone** they take +2 forward to their damage.
+
+ *- Fellowship of the Rose Quartz*
+---monstrous ingredients
+*(1 stock, 2 weight)*
+When you **dice up a kill or spend some time foraging for strange ingredients**, increase your stock by 1.
+---godless experimentation
+When you **use what you have on hand to cook something new and interesting**, expend 2 stock from your monstrous ingredients and roll+Presence. On a 10+, it’s wonderful, groundbreaking even, you’ve truly made something wonderful. You are all fed for tonight and you also get one *Fine Rations*. On a 7+, it’s good, you’d eat it again for sure, but it’s not amazing and you can’t help but feel like it’s missing something even if others love it. You are all fed for tonight and you also get one *Basic Rations*. On a miss, in addition to whatever the GM says, it’s horrible, no one else will eat it, you still want a little time with it tho. You are fed for tonight and get one *Mistake (4 uses, rations, horrible, 1 weight)*.
+
+ *- Gourmand of the Apocalypse*
+---detached observer
+When you **discreetly Investigate a foe**, they do not notice you. On a 7+, you may also ask the following questions:
+• Where are they going?
+• What are they paying attention to?
+
+ *- Professional People Watcher*
+---these new friends of mine
+When you **help out a friend**, roll+Presence. On a 7+, they take +1. On a 10+, you take +1 forward as well.
+
+ *- The Canvas*
