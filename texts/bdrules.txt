@@ -8,10 +8,10 @@ When you take aim and **attack an enemy at range**, roll+Presence. On a 10+, you
 ---evade
 When you **act quickly despite an immediate attack or danger**, roll+Sharp. On a 10+, you do it. On a 7-9, in the doing of it there will be a cost, complication, or choice introduced by the GM.
 ---endure
-When you **endure a hardship that might kill a weaker soul**, roll+Resolve. On a 10+, you endure but choose three. On a 7-9, choose two.
+When you **endure a hardship that might kill a weaker soul**, roll+Resolve. On a 10+, you endure, choose three. On a 7-9, choose two.
 • You take little or no harm.
 • You don’t lose track of something important.
-• You need little time to recover.
+• You only need a little time to recover.
 • Nothing feels your suffering and reacts to it.
 ---investigate
 When you **closely study a situation or person**, roll+Sharp. On a 10+, ask the GM three questions from the list below. On a 7-9, ask only one. Take +1 forward when acting on the answers.
@@ -49,10 +49,10 @@ When you **make a move while carrying weight up to or equal to Load**, you’re 
 2. **Begone Crude and Lesser Magics** - A spell or magic effect in your presence is torn apart. Lesser spells are ended, powerful magic is just reduced or dampened so long as you are nearby.
 3. **You Are All Beneath Me Now** - You are capable of levitating and floating through the air at your own discretion. Keep in mind some actions may be more difficult while floating.
 4. **Murmured Truths of the Universe** - You inflict humanity harm upon everyone around you.
-5. **Cunning Tongue Of Mephistopheles** - Confuse and charm someone you touch until they take damage or you prove otherwise.
+5. **Cunning Tongue Of Mephistopheles** - Confuse and charm someone you touch until they take damage or you betray their fragile mind.
 6. **Unknot the Sun In a Brilliant Blaze** - Unleash a ball of fire inflicting 2d6 damage on its target.
 7. **Foul Magics Bring You Back From Beyond** - Invoke a hungry spirit to animate a dead body to fight for or protect you.
-8. **Metzhuotl Blind Your Eye** - someone you touch becomes invisible for as long as you concentrate or they make an attack.
+8. **Metzhuotl Blind Your Eye** - someone you touch becomes invisible for as long as you concentrate or until they make an attack.
 9. **Eyelid Blinds the Mind** - 1d4 creatures fall asleep for up to an hour.
 10. **Cloud of Death’s Unholy Breath** - A cloud of fog drifts into this realm from beyond, filling the immediate area. Whenever a creature in the area takes damage it takes an additional, separate 1d6 damage which ignores armor.
 ---sacred scrolls
@@ -91,15 +91,15 @@ When you **have access to a significant holy site and burn a scroll of power to 
 
  *- Black Knight of Eleos*
 ---royal past
-When you **Recollect concerning matters of royalty, nobility and treasures**, you may Recollect using Presence instead of Resolve.
+When you **Recollect matters of royalty, nobility and treasures**, you may Recollect using Presence instead of Resolve.
 
  *- Monarch of Rubble and Ashes*
 ---disaster befall
-When you **spend a few days in one area without moving on**, the disaster catches up with you.
+When you **spend a few days in one area without moving on**, disaster catches up with you.
 
  *- Monarch of Rubble and Ashes*
 ---suffering recalled
-When you **Recollect concerning matters of great suffering**, take +1.
+When you **Recollect matters of great suffering**, take +1.
 
  *- Scryer to the Old Court of Mages*
 ---dead memories
@@ -144,7 +144,7 @@ When you’re **in too deep and need a way out**, name your escape route and rol
 
  *- Piper of Lyssa*
 ---empty the sky
-Whenever you **deal damage to a flying creature**, roll twice for your damage and use the best result.
+Whenever you **deal damage to a flying creature**, roll your damage twice and use the best result.
 
  *- Conqueror of Crows*
 ---blot out the sun
@@ -158,11 +158,11 @@ When you **roll and miss**, you may lower your Luck by 1 to re-roll. Take the se
 
  *- Sacred Lamb of Erebus*
 ---they listen to every word
-When you **enter an important location** (your call) you can ask the GM what the bugs sing about this place.
+When you **enter an important location** (your call), you can ask the GM what the bugs sing about this place.
 
  *- With A Chorus Of Insects In Their Ears*
 ---and they never shed a tear
-When you **gaze intensely into someone's eyes**, you may ask their player “what keeps you going despite all of this?” they’ll answer with the truth, even if the character does not know or would otherwise keep this hidden.
+When you **gaze intensely into someone's eyes**, you may ask their player “what keeps you going despite all of this?” and they’ll answer with the truth, even if the character does not know or would otherwise keep this hidden.
 
  *- With A Chorus Of Insects In Their Ears*
 ---to the ends of the earth
@@ -174,7 +174,7 @@ When you **see the effects of a spell**, ask the GM the name of the spell and it
 
  *- Wizard of the Academy of Mousika*
 ---aegis of the apocalypse
-When you **take damage you can open yourself up to the apocalypse** and take on its infection instead. If you do you take no damage but instead suffer an infection of your choice. If you already have all four infections you can’t use this move.
+When you **take damage**, you can open yourself up to the apocalypse and take on its infection instead. If you do you take no damage but instead suffer an infection of your choice. If you already have all four infections you can’t use this move.
 
  *- Tempest Chaser*
 ---oneiromantic visions
@@ -214,10 +214,10 @@ When you **search the bag for an item for a potential customer**, spend a use an
  *- Traveling Goblin Trader*
 ---trader of trinkets
 You can always demand trinkets and curios as payment for services rendered.
-When you **feed a satisfying portion of treasures or trinkets** (as decided in a case by case fashion by the GM) **to the bag**, the bag gains three uses.
+When you **feed a satisfying portion of treasures or trinkets to the bag** (as decided in a case by case fashion by the GM), the bag gains three uses.
 
  *- Traveling Goblin Trader*
----the blood of a fae, the claw of a bear
+---blood of a fae, claw of a bear
 Whenever you **deal damage to a human**, you roll twice and take the better result for any damage.
 
  *- Raised in the Care of Beast and Tree*
@@ -245,6 +245,9 @@ When you **invoke the power of a scroll with Words of Power**, on a 10+ you have
  *- The Deathspeaker of Pallas*
 ---harbinger of misery
 As long as you live the GM rolls *two* misery dice.
+
+ *- Champion of the End*
+---object of terror
 When you **melee**, on a 12+, you deal your damage, avoid their attack, and dismay or terrify your enemy.
 
  *- Champion of the End*
