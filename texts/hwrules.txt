@@ -33,19 +33,19 @@ When you **closely study a situation or person**, roll+WOR. On a 10+, ask the GM
 • What here is not what it appears to be?
 ---spout lore
 When you **consult your accumulated knowledge about something**, roll+WOR. On a 10+, the GM will tell you something interesting and useful about the subject relevant to your situation. On a 7-9, the GM will only tell you something interesting, it’s on you to make it useful. The GM might ask you “How do you know this?” Tell them the truth, now.
----manipulate
-When you **attempt to convince or manipulate someone** to do or think something they might not agree with, tell them what you want or want them to think and roll+PRS. For an NPC: On a 7+, they ask you for something and do it if you make them a promise first. On a 7-9, they need some concrete assurance of your promise, right now. For a PC: On a 7+, if they do it, they mark experience. On a 10+, they take +1 forward if they do what you ask. On a 6-, they mark experience if they ***don’t*** do what you ask and you don’t mark experience.
+---parley
+When you **have leverage on a GM character and manipulate them**, roll+PRS. Leverage is something they need or want. On a 7+, they ask you for something and do it if you make them a promise first. On a 7–9, they need some concrete assurance of your promise, right now.
 ---read a person
 When you **read a person** in a charged interaction, roll+PRS. On a 10+, hold 3. On a 7-9, hold 1. While you’re interacting with them, you can expend 1 hold to ask their player a question:
 • Is your character telling the truth?
 • What’s your character really feeling?
 • What does your character intend to do?
 • What does your character wish I’d do?
-• How could I get your character to __?
+• How could I get your character to \_\_?
 ---aid or interfere
 When you **help or hinder someone you have a Bond with**, roll+Bond with them. On a 7+, they take +1 or -2, your choice. On a 7-9, you also expose yourself to danger, retribution, or cost.
 ---last breath
-When you’re dying and you catch a glimpse of what lies beyond this miserable life, there is no one to greet you on the other side, it is just a vast ocean of darkness, it feels empty and lonely. You are afraid. Now roll+nothing. On a 10+, you’ve cheated death, you’re in a bad spot but you’re still alive. On a 7-9, there is no manifestation of death to greet you on the other side. But you can feel fate asking for something, a sacrifice perhaps, make a considerable sacrifice and stabilize or pass into whatever fate awaits you here. On a miss, your fate is sealed. You can feel the tendrils of darkness reaching out to you from beyond life, you’ll cross the threshold soon. The GM will tell you when.
+When you’re dying and you catch a glimpse of what lies beyond this miserable life, there is no one to greet you on the other side, it is just a vast ocean of darkness, it feels empty and lonely. You are afraid. Now roll+nothing. On a 10+, you’ve cheated death, you’re in a bad spot but you’re still alive. On a 7-9, there is no manifestation of death to greet you on the other side. But you can feel darkness itself asking something of you, follow the destiny darkness has set out for you and stabilize or let your soul pass on and join the darkness. On a miss, your fate is sealed. You can feel the tendrils of darkness reaching out to you from beyond life, you’ll cross the threshold soon. The GM will tell you when.
 ---encumbrance
 When you **make a move while carrying weight up to or equal to Load**, you’re fine. When you make a move while carrying weight equal to load+1 or load+2, you take -1. When you make a move while carrying weight greater than load+2, you have a choice: drop at least 1 weight and roll at -1, or automatically fail.
 ---bolster
@@ -147,10 +147,43 @@ When you **handle an interesting object**, roll+WOR. On a 10+, ask the GM three 
 • Who handled it last?
 • What made it?
 • Is it hiding something?
+---make it count
+When you **use up the last use of a piece of gear**, it has +1 to all numeric values attached to it and all rolls made to use it.
+When you **use a piece of gear without limited uses**, such as a weapon or a shield, you can destroy it during use to take +1 to all numeric values attached to it and all rolls made to use it.
+***Examples:***
+• *The last arrow gives +1 to Take Aim and +1 to damage.*
+• *The last poultice heals 8 HP instead of 7.*
+• *If you destroy your nail during use, you take +1 to Clash Nails and +1 to damage with it.*
+• *If you destroy your shield or your armor during use, it provides +1 to armor for the attack.*
+---focused starlight
+When you **hold your symbol aloft and call upon The Stella One to grace you with her light**, roll+PRS. On a 7+, so long as you continue to brandish your symbol of the higher beings you create a light that fills the space around you to around the size of a small room, it penetrates all darkness and no creature of darkness may enter its light. On a 10+, you also deal your damage to any creatures of darkness within the area of the light you create.
+---heavens presence
+When you **press your symbol upon someone and call The Celestial to allow no lies to be spoken**, they are prevented from lying, but you also can speak no deliberate lies for as long as your symbol is pressed to them.
 ---pure touch
 When you **press your symbol upon someone and call The Pure King to grant you his healing touch**, roll+PRS. On a 10+, you heal 1d8 damage or remove one disease. On a 7-9, they are still healed, but the disease or half the damage (rounded up) is also transferred to you.
+---symbol of conquest
+When you **hold your symbol aloft and call upon Zeal to grace you with her strength**, your holy symbol becomes a weapon that carries you forward into battle, describe it. It has the tags Close, Forceful and +1 damage, while wielding this weapon you take +1 to Clash Nails.
+---tearful plea
+When you **hold your symbol to your chest and call upon The Haze to let your words be known**, and speak of your dreams and what you ask of them, roll+PRS. On a 7+, they hear you out and act according to their values, and they choose one:
+• Do as you’ve requested, with tears in their eyes.
+• Break down crying, and are unable to move or respond.
+• Attack you out of fear.
+On a 10+, you also take +1 forward against them. On a miss, they do as they please, unphased, and you take -1 forward against them.
 ---oneiromantic visions
 When you **rest and dream the strands of possible futures**, roll+WOR. On a 10+, hold 2. On a 7-9, hold 1. Until the next time you rest, you can spend 1 hold to ask the GM what is about to happen. Take +1 ongoing when acting on the information.
+---what is a dream
+When you **have an “in” and talk intimately with someone, commending them**, you may ask their player “what is your dream for this world?” they’ll answer with the truth, even if the character does not know or would otherwise keep this hidden.
+---force of hope
+When you **dedicate yourself to act against a blight against hope on this world**, roll+PRS. On a 10+, choose two. On a 7-9, choose one. On a miss, the blight gets the better of your hopeful nature and the despair settles upon even you, take -1 forward on rolls against the blight.
+• Take +1 forward on rolls against the blight.
+• Gain +1 Armor against the blight and its servants.
+• The blight’s image is burned into your memory. You can sense it. You know the location of the blight at all times.
+• You can bear the pain or suffering that another has received from the blight or its influence.
+---holy guidance
+When you **advise an NPC on a future course of action**, roll+PRS. On a 10+, they will follow your advice on that action, although they will take it in a way that benefits them most. On a 7-9, they aren't sure if your advice is something they want to follow, they will only follow your advice if you back them up and help them do it.
+When another **PC comes to you for advice about something important and you tell them what you honestly think is best**, they get +1 forward when following your advice. At the end of a session, if any other PCs benefited from following your advice, you can mark XP.
+---protector of hope
+When you **Stand Strong** in defence of someone in need, gain +1 forward while you have hold.
 ---get over here
 When you **throw your hook with the intention of grappling an enemy into combat with you**, roll+CAP. On a 7+, you reel them in and they’re engaged with you in combat and will need to free themselves to escape combat with you. On a 10+, you take +1 forward to Clash Nails with them.
 ---the gentle approach
@@ -159,6 +192,62 @@ When you **use pure strength to destroy an inanimate obstacle**, roll+HRD. On a 
 • Nothing of value is damaged
 • It doesn’t make an inordinate amount of noise
 • You can fix the thing again without a lot of effort
+---enchanting performance
+When you **weave a performance into a basic spell**, choose an ally and an effect:
+• Heal 1d8 damage
+• +1d4 forward to damage
+• Their mind is shaken clear of one enchantment
+• The next time someone successfully assists the target with aid, they get +2 instead of +1
+Then roll+GRA. On a 10+, the ally gets the selected effect. On a 7-9, your spell still works, but you draw unwanted attention or your magic reverberates to other targets affecting them as well, GM’s choice.
+---all eyes on me
+When you **give your all and put on a show for a crowd**, roll+PRS. On a 10+, you draw attention to you and transfix the public. You and your allies take +1 forward to those in the audience. On a 7-9, you draw unwanted attention to yourself. Your allies take +1 forward, but you take -1 forward.
+---gossip monger
+When you **first encounter an important person, location, or item** (your call) covered by your Gossip Monger you can ask the GM any one question about it; the GM will answer truthfully. Take +1 forward when acting on the information. The GM may then ask you who told you of this gossip and where did you hear it.
+---healing magics
+When you **shape a spell with the intention of healing another's wounds**, roll+WOR. On a 7+, your spell heals them for 1d4 damage. On a 10+, they are healed an additional +1d4 damage.
+---detect magics
+When you **discern a magic you can sense**, roll+WOR. On a 10+, ask the GM three questions from the list below. On a 7-9 ask only one. Take +1 forward when acting on the answers.
+• What is this magic’s intent?
+• Who shaped this magic?
+• How recently was this magic cast?
+• Is this magic dangerous to me?
+• What can I learn from this magic?
+---ritual magics
+When you **draw on a place of power to create a magical effect**, tell the GM what you’re trying to achieve. Ritual effects are always possible, but the GM will give you one to four of the following conditions:
+• It’s going to take days/weeks/months
+• First you must \_\_
+• You’ll need help from \_\_
+• It will require a lot of silver
+• The best you can do is a lesser version, unreliable and limited
+• You and your allies will risk danger from \_\_
+• You’ll have to disenchant \_\_ to do it
+---profane magics
+When you **shape a spell with the intention to inflict damage or pain**, roll+WOR. On a 7+, you successfully cast the spell, deal 2d4 damage. On a 7-9, it doesn’t go perfectly though, choose one.
+• You draw unwelcome attention or put yourself in a spot. The GM will tell you how.
+• The casting saps your energy. You take -1 ongoing to WOR until you have a few minutes to clear your head.
+• You have to take what you can get: -1d6 damage.
+*If you don’t have the Magical Affinity move, assume you use this move with the close tag.*
+---mundane magics
+When you **shape a spell to perform a minor trick of true magic**, roll+WOR. On a 10+, the spell certainly helps, but choose one. On a 7-9, the spell takes effect, but choose two.
+• Your spell won't last long - you'll need to hurry to take advantage of it.
+• Your spell affects either much more or much less than you wanted it to.
+• Your spell has unforeseen side effects, and might draw unwanted attention.
+• The casting saps your energy. You take -1 ongoing to WOR until you have a few minutes to clear your head.
+---dance of the nail clasher
+When you **enter a fight against multiple foes**, roll+GRA. On a 10+, hold 3 maneuvers. On a 7-9, hold 2. During this fight, you may spend one maneuver to achieve one of the following effects:
+• You create an advantage and you or an ally can take +1 forward for exploiting it.
+• You disengage from melee with one foe.
+• You immediately cross the distance between you and one foe it is possible for you to reach.
+• You throw off the effects of being stunned, confused, or enchanted.
+---darkness unleashed
+*This move replaces Last Breath*
+When you are dying and your form begins to untether itself from your soul and your mask, roll+CAP. On a 10+, you can barely hold on to your body a little longer but your form is unstable, choose one. On a 7-9, you can feel yourself losing grip, choose two. On a miss, you become completely untethered but may use the last of your remaining conscious mind to control your untethered body until it dissipates at the GMs discretion.
+• Take -1 ongoing to Darkness Unleashed.
+• Your Untethered Form has 1d8 health before you either retether yourself or are lost forever.
+• Your mask is cracked, after you your form is retethered, you have -1 ongoing until you can repair your mask.
+• You retether yourself but fall unconscious, you can’t help your friends right now.
+---forged of darkness
+When you take damage, and that damage is even (after armor) your dark form hardens. Roll 1d4 and either add that much hold to your **Stand Strong** (if active), take that result forward to using **Stand Strong**, or reduce the damage by that amount, your choice.
 ---leaf on the wind
 When you **dash away from an opponent's attack**, roll+GRA. On a 10+, choose two. On a 7-9, choose one:
 • You avoid their attack
