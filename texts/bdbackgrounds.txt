@@ -328,7 +328,7 @@ Silver (5d8)
 
 *Starting Moves*
 ***Empty the Sky***
-Whenever you **deal damage to a flying creature**, roll your damage twice and use the best result..
+Whenever you **deal damage to a flying creature**, roll your damage twice and use the best result.
 ***Blot Out the Sun***
 When you **make a Ranged attack**, you may spend extra ammo before rolling. For each point of ammo spent you may choose an extra target. Roll once and apply damage to all targets.
 ---35
