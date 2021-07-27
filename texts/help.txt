@@ -8,9 +8,10 @@ the functions this bot is capable of are:
 "**!c**" to preform math equations.
 "**!d**" to roll dice, use "!help !d" for more information.
 "**!ad, !dd**" will roll with advantage or disadvantage respectively, use "!help !ad" for more infortmation.
-"!exd" will roll a dice and then roll and additional dice each time the max result is rolled.
+"**!exd**" will roll a dice and then roll and additional dice each time the max result is rolled.
 "**!dicemath**" to roll dice within math equations, use "!help !dicemath" for more information.
 "**!roll**" to roll two d6, use "!help !roll" for more information.
+"**!bgroll**" will roll a background for a variety of games, use ""!help !bgroll" for more information.
 ---!d
 "**!d (num)**" will roll a dice with (num) sides.
 "**!d (diceSides)*(diceRolled)**" will roll (diceRolled) many dice with (diceSides) many sides.
@@ -38,3 +39,6 @@ e(num1)d(num2) will roll (num1) dice with (num2) sides and roll an additional di
 ---!roll
 "**!roll**" will roll two d6.
 "**!roll (+/-)(int)**" will roll two d6 and add or subtract the integer.
+---!bgroll
+"**!bgroll bd**" will roll a background for The Blazing Dark, use "!bdbackgrounds (num)" to find a specific background without rolling.
+"**!bgroll troika**" will roll a background for Troika, use "!troikabg (num)" to find a specific background without rolling.
