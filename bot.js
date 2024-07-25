@@ -98,6 +98,14 @@ client.on("message", function (message) {
             diceRollCommand2d6(afterFirstWord, message);
         }
 
+        if (firstWord === "aroll") {
+            diceRollCommand3d6(afterFirstWord, message, "advantage");
+        }
+    
+        if (firstWord === "droll") {
+            diceRollCommand3d6(afterFirstWord, message, "disadvantage");
+        }
+
         if (/^roll[\+\-]?\d+/.exec(message.content)) {
             diceRollCommand2d6(/^roll(.*)$/.exec(message.content)[1], message);
         }
@@ -417,6 +425,50 @@ let diceRollCommand2d6 = function (numInput, message) {
     }
 
     message.channel.send(rollMessage);
+};
+
+let diceRollCommand3d6 = function(numInput, message, advantageRoll) {
+    let numToAdd = 0;
+    
+    if (numInput == "") {
+    
+    } else if (isNaN(numInput)) {
+        message.channel.send("The number to add is not valid.");
+        return false;
+    } else {
+        numToAdd = parseInt(numInput);
+    }
+  
+    let dieTotal = 0;
+    let dieResults = [];
+  
+    dieResults.push(getRandomInt(1, 6));
+    dieResults.push(getRandomInt(1, 6));
+    dieResults.push(getRandomInt(1, 6));
+  
+    if (advantageRoll === "advantage") {
+        let dieSort = dieResults
+        dieSort.sort()
+        let twoChosen = dieSort.slice(1,3)
+        dieTotal = twoChosen[0] + twoChosen[1]
+    }
+  
+    if (advantageRoll === "disadvantage") {
+        let dieSort = dieResults
+        dieSort.sort()
+        let twoChosen = dieSort.slice(0,2)
+        dieTotal = twoChosen[0] + twoChosen[1]
+    }
+  
+    let resultTotal = dieTotal + numToAdd;
+  
+    let rollMessage =
+        "Roll results: " + dieResults.toString() + "\nTotal:\t" + dieTotal;
+    if (numToAdd != 0) {
+        rollMessage += " + " + numToAdd + " = " + resultTotal;
+    }
+  
+    message.channel.send(rollMessage)
 };
 
 let diceMathCommand = (afterFirstWord, message) => {
